@@ -1,0 +1,88 @@
+name,height,mass,hair_color,skin_color,eye_color,birth_year,birth_era,birth_place,death_year,death_era,death_place,sex,gender,pronoun,homeworld,species,occupation,cybernetics,abilities,equipment,vehicles,starships
+Luke Skywalker,172,77,blond,light,blue,19,BBY,Polis Massa,34,ABY,Ahch-To,male,masculine,he/him,Tatooine,Human,Jedi Master,Prosthetic right hand,"Lightsaber abilities, Force powers, Other abilities","Lightsabers, Blasters","Snowspeeder, Imperial Speeder Bike","X-wing, Imperial shuttle"
+C-3PO,167,75,NA,gold,yellow,112,BBY,Affa,3,ABY,Bespin,none,masculine,he/him,Tatooine,Droid,Protocol droid,NA,"Language known, Other skills",NA,NA,NA
+R2-D2,96,32,NA,"blue, silver, white",red,33,BBY,NA,20,BBY,Carida,none,masculine,he/him,Naboo,Droid,Astromech droid,NA,NA,"Buzz saw, Electric pike, Drinks tray, Fusion welder, Scomp link, Power recharge coupler, Rocket boosters, Holographic projector, Motorized all-terrain treads, Retractable third leg",NA,NA
+Darth Vader,202,136,sandy-blond,pale,yellow,41,BBY,Tatooine,4,ABY,Death Star II,male,masculine,he/him,Tatooine,Human,Dark Lord of the Sith,"Prosthetic arms and legs, life-support system","Lightsaber abilities, Force powers, Language known","Clothing, Lightsabers",NA,TIE Advanced x1
+Leia Organa Solo,150,49,dark brown,light,brown,19,BBY,Polis Massa,35,ABY,Ajan Kloss,female,feminine,she/her,Alderaan,Human,Princess of Alderaan,NA,"Jedi training, Force powers, Other abilities","Defender sporting blaster pistol, X-30 Lancer target blast pistol, Lightsaber",Imperial Speeder Bike,NA
+Owen Lars,178,120,brown,light,blue,52,BBY,Ator,0,BBY,Tatooine,male,masculine,he/him,Tatooine,Human,Moisture farmer,NA,Blaster abilities,"Blasters, SX-14 Field Hover-Ute, GX-8 Moisture Vaporators, Droids","Zephyr-G swoop bike, V-35 Courier, T-16 Skyhopper",NA
+Beru Whitesun Lars,165,75,brown,light,blue,47,BBY,NA,0,BBY,Tatooine,female,feminine,she/her,Tatooine,Human,Moisture farmer,NA,NA,Light robes,NA,NA
+R5-D4,97,32,NA,"white, red, blue",red,NA,NA,NA,NA,NA,NA,none,masculine,he/him,Tatooine,Droid,Astromech droid,NA,NA,"Holoprojector, Rocket booster, Scomp link",NA,NA
+Biggs Darklighter,183,84,black,light,brown,24,BBY,Tatooine,0,BBY,Yavin system,male,masculine,he/him,Tatooine,Human,Pilot,NA,Piloting,NA,NA,X-wing
+Obi-Wan Kenobi,182,77,auburn,fair,blue-gray,57,BBY,Stewjon,0,BBY,DS-1 Orbital Battle Station,male,masculine,he/him,Stewjon,Human,Jedi General,NA,"Lightsaber training, Force powers, Other abilities",Lightsabers,Tribubble bongo,"Jedi starfighter, Trade Federation cruiser, Naboo star skiff, Jedi Interceptor, Belbullab-22 starfighter"
+Anakin Skywalker,188,84,blond,fair,blue,41,BBY,Tatooine,4,ABY,Death Star II,male,masculine,he/him,Tatooine,Human,Jedi Knight,Cybernetic right arm,"Lightsaber training, Force powers","Clothing, Lightsabers","Zephyr-G swoop bike, XJ-6 airspeeder","Naboo fighter, Trade Federation cruiser, Jedi Interceptor"
+Wilhuff Tarkin,180,NA,auburn,light,blue,64,BBY,Eriadu,0,BBY,Death Star I,male,masculine,he/him,Eriadu,Human,Station Commander,NA,NA,"Uniforms, Blasters",NA,NA
+Chewbacca,228,112,brown,NA,blue,200,BBY,Kashyyyk,25,ABY,Sernpidal,male,masculine,he/him,Kashyyyk,Wookiee,Co-pilot,NA,"Piloting, Mechanic repairs","Weapons, Blasters",AT-ST,"Millennium Falcon, Imperial shuttle"
+Han Solo,180,80,brown,light,hazel,29,BBY,Corellia,34,ABY,Starkiller Base,male,masculine,he/him,Corellia,Human,General in the Rebel Alliance,NA,Piloting,Weapons,NA,"Millennium Falcon, Imperial shuttle"
+Greedo,173,74,NA,green,black,44,BBY,Rodia,0,BBY,Tatooine,male,masculine,he/him,Rodia,Rodian,Bounty hunter,NA,NA,NA,NA,NA
+Jabba Desilijic Tiure,175,1358,NA,"green-tan, brown",orange,600,BBY,Nal Hutta,4,ABY,Tatooine,hermaphroditic,masculine,he/him,Nal Hutta,Hutt,Crime lord,NA,NA,NA,NA,NA
+Wedge Antilles,170,77,dark brown,fair,hazel,21,BBY,NA,NA,NA,NA,male,masculine,he/him,Corellia,Human,Flight instructor,NA,Piloting,"X-wings, T-47 airspeeder, Other fighters, Millennium Falsehood, Lusankya, Mon Mothma, Ground equipment",Snowspeeder,X-wing
+Jek Tono Porkins,180,110,brown,fair,blue,NA,NA,NA,0,BBY,Yavin system,male,masculine,he/him,Bestine IV,Human,Pilot,NA,Piloting,"Rebel flight suit, Flight helmet, Goggles. Blasters",NA,X-wing
+Yoda,66,17,white,green,green-gold,896,BBY,NA,4,ABY,Dagobah,male,masculine,he/him,NA,Yoda's species,Jedi Master,NA,"Lightsaber training, Force powers, Other abilities",Lightsabers,NA,NA
+Palpatine,173,75,red,fair,blue,82,BBY,Naboo,11,ABY,Onderon,male,masculine,he/him,Naboo,Human,Emperor of the Galactic Empire,NA,"Lightsaber abilities, Force powers, Force lightning",Lightsabers,NA,NA
+Boba Fett,183,78,black,tan,brown,31,BBY,Kamino,45,ABY,NA,male,masculine,he/him,Kamino,Human,Bounty hunter,NA,Bountry hunter,"Helmet, Armor/Clothing, Rocket/Jetpack, Weaponry, Mandalorian armor",NA,Slave 1
+IG-88B,200,140,none,metal,red,15,BBY,NA,3,ABY,Bespin,none,masculine,he/him,Halowan,Droid,Assassin droid,NA,NA,"Gas dispenser, Neural flame grenades, Flamethrower, Sonic stunner, DAS-430 Neural Inhibitor, Ion blaster, Concussion grenade launcher, Pulse cannon",NA,NA
+Bossk'wassak'Cradossk,190,113,none,green,orange,53,BBY,Trandosha,NA,NA,NA,male,masculine,he/him,Trandosha,Trandoshan,Bounty hunter,NA,NA,"Weapons, Blasters",NA,NA
+Lando Calrissian,177,79,black,dark,brown,31,BBY,Socorro,NA,NA,NA,male,masculine,he/him,Socorro,Human,General in the Rebel Alliance,NA,"Piloting, Drebble",Clothing,NA,Millennium Falcon
+Lobot,175,79,none,light,blue,37,BBY,NA,NA,NA,NA,male,masculine,he/him,Bespin,Human,Chief administrative aide,AJ^6 cyborg construct,NA,Clothing,NA,NA
+Gial Ackbar,180,83,none,brown mottle,orange,41,BBY,Mon Cala,29,ABY,Mon Calamari,male,masculine,he/him,Dac,Mon Calamari,Supreme Commander of the Alliance Fleet,NA,Kar-Shak,"Mon Calamari fleet officer uniform, Utility belt, Blasters",NA,NA
+Mon Mothma,150,NA,auburn,light,blue,48,BBY,Chandrila,24,ABY,NA,female,feminine,she/her,Chandrila,Human,Chancellor of the New Republic,NA,Piloting,Chandrilan tunic,NA,NA
+Arvel Crynyd,NA,NA,brown,light,brown,NA,NA,NA,4,ABY,Endor system,male,masculine,he/him,Thyferra,Human,Pilot,NA,Piloting,"Flight suit, Helmet",NA,A-wing
+Wicket Wystri Warrick,80,20,brown,brown,brownish black,8,BBY,Endor,NA,NA,NA,male,masculine,he/him,Endor,Ewok,Ruler of Bright Tree Village,NA,Force sensitivy,Belt of Honor,NA,NA
+Nien Nunb,160,68,none,gray,black,NA,NA,NA,35,ABY,Tantive IV,male,masculine,he/him,Sullust,Sullustan,CEO of Calrissian-Nunb Mines,NA,Piloting,NA,NA,Millennium Falcon
+Qui-Gon Jinn,193,89,brown,light,blue-gray,92,BBY,Coruscant,32,BBY,Naboo,male,masculine,he/him,NA,Human,Jedi,NA,"Lightsaber training, Force powers, Other abilities","Lightsabers, Poncho, Hush-98 comlink, Imagecaster",Tribubble bongo,NA
+Nute Gunray,191,90,none,mottled green,red,19,BBY,Mustafar,NA,NA,NA,male,masculine,he/him,Neimoidia,Neimodian,Business Executive,NA,NA,Clothing,NA,NA
+Finis Valorum,170,NA,blond,light,blue,82,BBY,NA,NA,NA,NA,male,masculine,he/him,Coruscant,Human,Supreme Chancellor,NA,Politics,Clothing,NA,NA
+Padmé Amidala,165,45,brown,light,brown,46,BBY,Naboo,19,BBY,Polis Massa,female,feminine,she/her,Naboo,Human,Queen of Naboo,NA,Politics,NA,NA,"Naboo fighter, H-type Nubian yacht, Naboo star skiff"
+Jar Jar Binks,196,66,none,orange,orange,52,BBY,Naboo,NA,NA,NA,male,masculine,he/him,Naboo,Gungan,Senator of Chommell Sector ,NA,Communicating,NA,NA,NA
+Roos Tarpals,224,82,none,"white, purple",orange,NA,NA,NA,21,BBY,Naboo,male,masculine,he/him,Naboo,Gungan,Gungan Captain,NA,NA,NA,NA,NA
+Rugor Nass,206,NA,none,green,orange,NA,NA,NA,NA,NA,NA,male,masculine,he/him,Naboo,Gungan,Gungan Leader,NA,NA,NA,NA,NA
+Ric Olié,183,NA,light brown,fair,bluish green,NA,NA,NA,3,ABY,NA,male,masculine,he/him,Naboo,Human,Pilot,NA,NA,NA,NA,Naboo Royal Starship
+Watto,137,NA,black,blue,orange,NA,NA,NA,NA,NA,NA,male,masculine,he/him,Toydaria,Toydarian,Junk store proprietor,NA,NA,NA,NA,NA
+Sebulba,112,40,none,"beige, purple",orange,NA,NA,NA,NA,NA,NA,male,masculine,he/him,Malastare,Dug,Podracer pilot,NA,"Piloting, Racing","Weapons, Armor, Helmet, Googles",NA,NA
+Quarsh Panaka,183,NA,black,light brown,brown,62,BBY,Onoam,NA,NA,NA,male,masculine,he/him,Naboo,Human,Captain of the Queen Amidala's guard,NA,NA,"Leather jerkin, Officer cap, Pistols",NA,NA
+Shmi Skywalker Lars,163,NA,brown,fair,brown,72,BBY,NA,22,BBY,Tatooine,female,feminine,she/her,Tatooine,Human,Moisture farmer,NA,NA,NA,NA,NA
+Darth Maul,175,80,none,red,yellow,54,BBY,Dathomir,0,BBY,Kalakar Six,male,masculine,he/him,Dathomir,Zabrak,Dark Lord of the Sith,"Six-legged apparatus, Two cybernetic legs","Lightsaber training, Force abilities, Other talents",Lightsabers,Sith speeder,Scimitar
+Bib Fortuna,188,NA,none,pale,red,NA,NA,NA,9,ABY,Tatooine,male,masculine,he/him,Ryloth,Twi'lek,Chief aide to Jabba the Hutt,NA,NA,Clothing,NA,NA
+Aayla Secura,170,55,none,blue,hazel,48,BBY,NA,19,BBY,Felucia,female,feminine,she/her,Ryloth,Twi'lek,Twi'lek Jedi,NA,"Lightsaber training, Force powers",Lightsabers,NA,NA
+Ratts Tyerell,79,15,none,blue,black,NA,NA,NA,32,BBY,Tatooine,male,masculine,he/him,Aleen Minor,Aleena,Podracer pilot,NA,"Piloting, Racing",Googles,NA,NA
+Dud Bolt,94,45,none,"blue-gray, yellow, white",yellow,NA,NA,NA,NA,NA,NA,male,masculine,he/him,Vulpter,Vulptereen,Podracer pilot,NA,"Piloting, Racing",NA,Vulptereen 327 Podrace,NA
+Gasgano,122,NA,none,white,black,NA,NA,NA,NA,NA,NA,male,masculine,he/him,Troiken,Xexto,Podracer pilot,NA,"Piloting, Racing",NA,Ord Pedrovia,NA
+Ben Quadinaros,163,65,none,yellow,orange,NA,NA,NA,NA,NA,NA,male,masculine,he/him,Tund,Toong,Podracer pilot,NA,"Piloting, Racing",NA,BT31 Quadra,NA
+Mace Windu,192,84,none,dark,brown,72,BBY,Haruun Kal,19,BBY,Coruscant,male,masculine,he/him,Haruun Kal,Human,Jedi Master,NA,"Lightsaber training, Force mastery, Other abilities",Lightsabers,NA,NA
+Ki-Adi-Mundi,201,82,white,light,yellow,93,BBY,Cerea,19,BBY,Mygeeto,male,masculine,he/him,Cerea,Cerean,Jedi Master,NA,"Lightsaber abilities, Force powers",Lightsabers,NA,NA
+Kit Fisto,196,87,none,green,black,NA,NA,NA,19,BBY,Coruscant,male,masculine,he/him,Glee Anselm,Nautolan,Jedi Master,NA,"Lightsaber abilities, Force powers",Lightsabers,NA,NA
+Eeth Koth,187,NA,black,tan,brown,NA,NA,NA,14,BBY,NA,male,masculine,he/him,Nar Shaddaa,Iridonian Zabrak,Jedi Master,NA,"Lightsaber abilities, Force powers",Lightsabers,NA,NA
+Adi Gallia,184,50,none,dark,blue,NA,NA,NA,20,BBY,Florrum,female,feminine,she/her,Coruscant,Tholothian,Jedi Master,NA,"Lightsaber abilities, Force powers",Lightsabers,NA,NA
+Saesee Tiin,188,NA,none,dark orange,yellow-gray,NA,NA,NA,19,BBY,Coruscant,male,masculine,he/him,Iktotch,Iktotchi,Jedi Master,NA,"Lightsaber abilities, Force powers",Lightsabers,NA,NA
+Yarael Poof,264,NA,none,pasty white,red,NA,NA,NA,27,BBY,Coruscant,male,masculine,he/him,Quermia,Quermian,Jedi High Council member,NA,"Lightsaber abilities, Force powers",Lightsabers,NA,NA
+Plo Koon,188,80,none,orange,black,22,BBY,NA,19,BBY,Cato Neimoidia,male,masculine,he/him,Dorin,Kel Dor,Jedi Master,NA,"Lightsaber abilities, Force powers",Lightsabers,NA,Jedi starfighter
+Mas Amedda,196,91,none,blue,blue,NA,NA,NA,NA,NA,NA,male,masculine,he/him,Champala,Chagrian,Vice Chair of the Galactic Senate,NA,Politics,Clothing,NA,NA
+Gregar Typho,185,85,black,tan,brown,NA,NA,NA,18,BBY,Naboo,male,masculine,he/him,Naboo,Human,Head of security for Senator Padmé Amidala,NA,Piloting,Eye Patch,NA,Naboo fighter
+Cordé,157,NA,brown,light,brown,NA,NA,NA,22,BBY,Coruscant,female,feminine,she/her,Naboo,Human,Handmaiden,NA,NA,NA,NA,NA
+Cliegg Lars,183,NA,brown,fair,blue,82,BBY,Tatooine,20,BBY,Tatooine,male,masculine,he/him,Tatooine,Human,Moisture farmer,NA,NA,Clothing,NA,NA
+Poggle the Lesser,183,80,none,green,yellow,NA,NA,NA,19,BBY,Mustafar,male,masculine,he/him,Geonosis,Geonosian,Archduke of Geonosis,NA,NA,Clothing,NA,NA
+Luminara Unduli,170,56,gray,yellow,blue,58,BBY,Mirial,19,BBY,Kashyyyk,female,feminine,she/her,Mirial,Mirialan,Jedi Master,NA,"Lightsaber abilities, Force powers",Lightsabers,NA,NA
+Barriss Offee,166,50,black,olive,blue,40,BBY,Aboard a Starliner,19,BBY,Felucia,female,feminine,she/her,Mirial,Mirialan,Jedi Knight,NA,"Lightsaber abilities, Force powers",Lightsabers,NA,NA
+Dormé,165,NA,brown,light,brown,NA,NA,NA,NA,NA,NA,female,feminine,she/her,Naboo,Human,Handmaiden,NA,NA,NA,NA,NA
+Dooku,196,80,white,fair,brown,102,BBY,Serenno,19,BBY,Coruscant,male,masculine,he/him,Serenno,Human,Dark Lord of the Sith,NA,"Lightsaber training, Force abilities, Force lightning",Lightsabers,Flitknot speeder,NA
+Bail Prestor Organa,191,NA,black,tan,brown,67,BBY,NA,0,BBY,Alderaan,male,masculine,he/him,Alderaan,Human,Crown Prince of Alderaan,NA,NA,Clothing,NA,NA
+Jango Fett,183,79,black,tan,dark brown,66,BBY,Concord Dawn,22,BBY,Geonosis,male,masculine,he/him,Concord Dawn,Human,Bounty hunter,NA,NA,"Weapons, Vehicles",NA,NA
+Zam Wesell,168,55,blond,green,yellow,NA,NA,NA,22,BBY,Coruscant,female,feminine,she/her,Zolan,Clawdite,Bounty hunter,NA,"Shape-shifting, Tactical skills","Airspeeder, Armor, Arsenal, Assassin droid",Koro-2 Exodrive airspeeder,NA
+Dexter Jettster,198,102,none,gray,yellow,NA,NA,NA,NA,NA,NA,male,masculine,he/him,Ojom,Besalisk,Chef,NA,NA,NA,NA,NA
+Lama Su,229,88,none,white,black,NA,NA,NA,NA,NA,NA,male,masculine,he/him,Kamino,Kaminoan,Prime Minister of Kamino,NA,NA,NA,NA,NA
+Taun We,213,NA,none,white,black,NA,NA,NA,19,BBY,Bora Vio,female,feminine,she/her,Kamino,Kaminoan,Administrator aide,NA,NA,NA,NA,NA
+Jocasta Nu,167,NA,white,fair,blue,110,BBY,Coruscant,19,BBY,Coruscant,female,feminine,she/her,Coruscant,Human,Jedi Master,NA,"Lightsaber abilities, Force powers",Lightsabers,NA,NA
+R4-P17,96,NA,none,"silver, red","red, blue",NA,NA,NA,19,BBY,Coruscant,none,feminine,she/her,NA,Droid,Astromech droid,NA,NA,"Holographic projector, Recorder, Various utility, Repair tools",NA,NA
+Wat Tambor,193,48,none,green,black,NA,NA,NA,19,BBY,Mustafar,male,masculine,he/him,Skako,Skakoan,Foreman,"Vocalubator, Annunciator",NA,NA,NA,NA
+San Hill,191,NA,none,pasty yellow,gold,NA,NA,NA,19,BBY,Mustafar,male,masculine,he/him,Muunilinst,Muun,Chairman of the InterGalactic Banking Clan,NA,NA,NA,NA,NA
+Shaak Ti,178,57,none,"red, white, blue",black,NA,NA,NA,3,BBY,Felucia,female,feminine,she/her,Shili,Togruta,Jedi Master,NA,"Lightsaber abilities, Force powers",Lightsabers,NA,NA
+Grievous,216,159,none,"brown, white",gold,NA,NA,NA,19,BBY,Utapau,male,masculine,he/him,Kalee,Kaleesh,Jedi Hunter,Completely cebernetic except for brain,Lightsaber abilities,Lightsabers,Tsmeu-6 personal wheel bike,Belbullab-22 starfighter
+Tarfful,234,136,brown,brown,blue,NA,NA,NA,NA,NA,NA,male,masculine,he/him,Kashyyyk,Wookiee,Wookiee chieftain,NA,NA,Weapons,NA,NA
+Raymus Antilles,188,79,brown,light,brown,NA,NA,NA,0,BBY,Tantive IV,male,masculine,he/him,Alderaan,Human,Captain of the CR90 corvette,NA,Piloting,NA,NA,NA
+Sly Moore,178,48,none,pale,white,NA,NA,NA,18,BBY,NA,female,feminine,she/her,Umbara,Umbaran,Personal aide ,NA,"Politics, Force powers",NA,NA,NA
+Tion Medon,206,80,none,"gray, red",black,NA,NA,NA,NA,NA,NA,male,masculine,he/him,Utapau,Pau'an,Port Administrator,NA,Politics,Clothing,NA,NA
+Finn,178,73,black,dark,brown,11,ABY,NA,NA,NA,NA,male,masculine,he/him,NA,Human,General in the Rebel Alliance,NA,NA,NA,NA,NA
+Rey Skywalker,170,54,brown,light,hazel,15,ABY,Hyperkarn,35,ABY,Exegol,female,feminine,she/her,Jakku,Human,Jedi,NA,"Lightsaber abilities, Force powers, Force lightning","Hellhound two, Vehicles, Tools and wapons, Lightsabers",NA,NA
+Poe Dameron,172,80,dark brown,tan,brown,2,ABY,Yavin 4,NA,NA,NA,male,masculine,he/him,Yavin 4,Human,General in the Rebel Alliance,NA,Piloting,Clothing,NA,X-wing
+BB-8,67,18,none,"white, orange",red,29,ABY,NA,NA,NA,NA,none,masculine,he/him,Hosnian Prime,Droid,Astromech droid,NA,NA,"Grappling spike launcher, Welding torch, Holoprojector, Arc welder",NA,NA
+Captain Phasma,200,76,gold,light,blue,6,ABY,Parnassos,34,ABY,Crait system,female,feminine,she/her,Parnassos,Human,Stormtrooper commander,NA,Shooting,"Rust-read war mask, Armor coated, Weapons, Blasters",NA,NA
