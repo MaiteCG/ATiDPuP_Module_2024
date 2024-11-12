@@ -1,0 +1,88 @@
+name,height,mass,hair_color,skin_color,eye_color,birth_year,birth_era,birth_place,death_year,death_era,death_place,sex,gender,pronoun,homeworld,species,occupation,cybernetics,abilities,equipment,vehicles,starships,birth_date,death_date
+Luke Skywalker,172,77,blond,light,blue,19,BBY,Polis Massa,34,ABY,Ahch-To,male,masculine,he/him,Tatooine,Human,Jedi Master,Prosthetic right hand,"Lightsaber abilities, Force powers, Other abilities","Lightsabers, Blasters","Snowspeeder, Imperial Speeder Bike","X-wing, Imperial shuttle",1796-05-07 12:00:00,1849-10-01 12:00:00
+C-3PO,167,75,,gold,yellow,112,BBY,Affa,3,ABY,Bespin,none,masculine,he/him,Tatooine,Droid,Protocol droid,,"Language known, Other skills",,,,1702-08-25 12:00:00,1818-07-08 12:00:00
+R2-D2,96,32,,"blue, silver, white",red,33,BBY,,20,BBY,Carida,none,masculine,he/him,Naboo,Droid,Astromech droid,,,"Buzz saw, Electric pike, Drinks tray, Fusion welder, Scomp link, Power recharge coupler, Rocket boosters, Holographic projector, Motorized all-terrain treads, Retractable third leg",,,1782-03-30 12:00:00,1795-05-05 12:00:00
+Darth Vader,202,136,sandy-blond,pale,yellow,41,BBY,Tatooine,4,ABY,Death Star II,male,masculine,he/him,Tatooine,Human,Dark Lord of the Sith,"Prosthetic arms and legs, life-support system","Lightsaber abilities, Force powers, Language known","Clothing, Lightsabers",,TIE Advanced x1,1774-03-08 12:00:00,1819-07-11 12:00:00
+Leia Organa Solo,150,49,dark brown,light,brown,19,BBY,Polis Massa,35,ABY,Ajan Kloss,female,feminine,she/her,Alderaan,Human,Princess of Alderaan,,"Jedi training, Force powers, Other abilities","Defender sporting blaster pistol, X-30 Lancer target blast pistol, Lightsaber",Imperial Speeder Bike,,1796-05-07 12:00:00,1850-10-04 12:00:00
+Owen Lars,178,120,brown,light,blue,52,BBY,Ator,0,BBY,Tatooine,male,masculine,he/him,Tatooine,Human,Moisture farmer,,Blaster abilities,"Blasters, SX-14 Field Hover-Ute, GX-8 Moisture Vaporators, Droids","Zephyr-G swoop bike, V-35 Courier, T-16 Skyhopper",,1763-02-06 12:00:00,1815-06-30 12:00:00
+Beru Whitesun Lars,165,75,brown,light,blue,47,BBY,,0,BBY,Tatooine,female,feminine,she/her,Tatooine,Human,Moisture farmer,,,Light robes,,,1768-02-20 12:00:00,1815-06-30 12:00:00
+R5-D4,97,32,,"white, red, blue",red,,,,,,,none,masculine,he/him,Tatooine,Droid,Astromech droid,,,"Holoprojector, Rocket booster, Scomp link",,,,
+Biggs Darklighter,183,84,black,light,brown,24,BBY,Tatooine,0,BBY,Yavin system,male,masculine,he/him,Tatooine,Human,Pilot,,Piloting,,,X-wing,1791-04-24 12:00:00,1815-06-30 12:00:00
+Obi-Wan Kenobi,182,77,auburn,fair,blue-gray,57,BBY,Stewjon,0,BBY,DS-1 Orbital Battle Station,male,masculine,he/him,Stewjon,Human,Jedi General,,"Lightsaber training, Force powers, Other abilities",Lightsabers,Tribubble bongo,"Jedi starfighter, Trade Federation cruiser, Naboo star skiff, Jedi Interceptor, Belbullab-22 starfighter",1758-01-23 12:00:00,1815-06-30 12:00:00
+Anakin Skywalker,188,84,blond,fair,blue,41,BBY,Tatooine,4,ABY,Death Star II,male,masculine,he/him,Tatooine,Human,Jedi Knight,Cybernetic right arm,"Lightsaber training, Force powers","Clothing, Lightsabers","Zephyr-G swoop bike, XJ-6 airspeeder","Naboo fighter, Trade Federation cruiser, Jedi Interceptor",1774-03-08 12:00:00,1819-07-11 12:00:00
+Wilhuff Tarkin,180,,auburn,light,blue,64,BBY,Eriadu,0,BBY,Death Star I,male,masculine,he/him,Eriadu,Human,Station Commander,,,"Uniforms, Blasters",,,1751-01-04 12:00:00,1815-06-30 12:00:00
+Chewbacca,228,112,brown,,blue,200,BBY,Kashyyyk,25,ABY,Sernpidal,male,masculine,he/him,Kashyyyk,Wookiee,Co-pilot,,"Piloting, Mechanic repairs","Weapons, Blasters",AT-ST,"Millennium Falcon, Imperial shuttle",1613-12-25 12:00:00,1840-09-06 12:00:00
+Han Solo,180,80,brown,light,hazel,29,BBY,Corellia,34,ABY,Starkiller Base,male,masculine,he/him,Corellia,Human,General in the Rebel Alliance,,Piloting,Weapons,,"Millennium Falcon, Imperial shuttle",1786-04-10 12:00:00,1849-10-01 12:00:00
+Greedo,173,74,,green,black,44,BBY,Rodia,0,BBY,Tatooine,male,masculine,he/him,Rodia,Rodian,Bounty hunter,,,,,,1771-02-28 12:00:00,1815-06-30 12:00:00
+Jabba Desilijic Tiure,175,1358,,"green-tan, brown",orange,600,BBY,Nal Hutta,4,ABY,Tatooine,hermaphroditic,masculine,he/him,Nal Hutta,Hutt,Crime lord,,,,,,1210-12-18 12:00:00,1819-07-11 12:00:00
+Wedge Antilles,170,77,dark brown,fair,hazel,21,BBY,,,,,male,masculine,he/him,Corellia,Human,Flight instructor,,Piloting,"X-wings, T-47 airspeeder, Other fighters, Millennium Falsehood, Lusankya, Mon Mothma, Ground equipment",Snowspeeder,X-wing,1794-05-02 12:00:00,
+Jek Tono Porkins,180,110,brown,fair,blue,,,,0,BBY,Yavin system,male,masculine,he/him,Bestine IV,Human,Pilot,,Piloting,"Rebel flight suit, Flight helmet, Goggles. Blasters",,X-wing,,1815-06-30 12:00:00
+Yoda,66,17,white,green,green-gold,896,BBY,,4,ABY,Dagobah,male,masculine,he/him,,Yoda's species,Jedi Master,,"Lightsaber training, Force powers, Other abilities",Lightsabers,,,0912-09-23 12:00:00,1819-07-11 12:00:00
+Palpatine,173,75,red,fair,blue,82,BBY,Naboo,11,ABY,Onderon,male,masculine,he/him,Naboo,Human,Emperor of the Galactic Empire,,"Lightsaber abilities, Force powers, Force lightning",Lightsabers,,,1732-11-15 12:00:00,1826-07-30 12:00:00
+Boba Fett,183,78,black,tan,brown,31,BBY,Kamino,45,ABY,,male,masculine,he/him,Kamino,Human,Bounty hunter,,Bountry hunter,"Helmet, Armor/Clothing, Rocket/Jetpack, Weaponry, Mandalorian armor",,Slave 1,1784-04-04 12:00:00,1860-10-31 12:00:00
+IG-88B,200,140,none,metal,red,15,BBY,,3,ABY,Bespin,none,masculine,he/him,Halowan,Droid,Assassin droid,,,"Gas dispenser, Neural flame grenades, Flamethrower, Sonic stunner, DAS-430 Neural Inhibitor, Ion blaster, Concussion grenade launcher, Pulse cannon",,,1800-05-19 12:00:00,1818-07-08 12:00:00
+Bossk'wassak'Cradossk,190,113,none,green,orange,53,BBY,Trandosha,,,,male,masculine,he/him,Trandosha,Trandoshan,Bounty hunter,,,"Weapons, Blasters",,,1762-02-03 12:00:00,
+Lando Calrissian,177,79,black,dark,brown,31,BBY,Socorro,,,,male,masculine,he/him,Socorro,Human,General in the Rebel Alliance,,"Piloting, Drebble",Clothing,,Millennium Falcon,1784-04-04 12:00:00,
+Lobot,175,79,none,light,blue,37,BBY,,,,,male,masculine,he/him,Bespin,Human,Chief administrative aide,AJ^6 cyborg construct,,Clothing,,,1778-03-19 12:00:00,
+Gial Ackbar,180,83,none,brown mottle,orange,41,BBY,Mon Cala,29,ABY,Mon Calamari,male,masculine,he/him,Dac,Mon Calamari,Supreme Commander of the Alliance Fleet,,Kar-Shak,"Mon Calamari fleet officer uniform, Utility belt, Blasters",,,1774-03-08 12:00:00,1844-09-17 12:00:00
+Mon Mothma,150,,auburn,light,blue,48,BBY,Chandrila,24,ABY,,female,feminine,she/her,Chandrila,Human,Chancellor of the New Republic,,Piloting,Chandrilan tunic,,,1767-02-17 12:00:00,1839-09-04 12:00:00
+Arvel Crynyd,,,brown,light,brown,,,,4,ABY,Endor system,male,masculine,he/him,Thyferra,Human,Pilot,,Piloting,"Flight suit, Helmet",,A-wing,,1819-07-11 12:00:00
+Wicket Wystri Warrick,80,20,brown,brown,brownish black,8,BBY,Endor,,,,male,masculine,he/him,Endor,Ewok,Ruler of Bright Tree Village,,Force sensitivy,Belt of Honor,,,1807-06-08 12:00:00,
+Nien Nunb,160,68,none,gray,black,,,,35,ABY,Tantive IV,male,masculine,he/him,Sullust,Sullustan,CEO of Calrissian-Nunb Mines,,Piloting,,,Millennium Falcon,,1850-10-04 12:00:00
+Qui-Gon Jinn,193,89,brown,light,blue-gray,92,BBY,Coruscant,32,BBY,Naboo,male,masculine,he/him,,Human,Jedi,,"Lightsaber training, Force powers, Other abilities","Lightsabers, Poncho, Hush-98 comlink, Imagecaster",Tribubble bongo,,1722-10-19 12:00:00,1783-04-02 12:00:00
+Nute Gunray,191,90,none,mottled green,red,19,BBY,Mustafar,,,,male,masculine,he/him,Neimoidia,Neimodian,Business Executive,,,Clothing,,,1796-05-07 12:00:00,
+Finis Valorum,170,,blond,light,blue,82,BBY,,,,,male,masculine,he/him,Coruscant,Human,Supreme Chancellor,,Politics,Clothing,,,1732-11-15 12:00:00,
+Padmé Amidala,165,45,brown,light,brown,46,BBY,Naboo,19,BBY,Polis Massa,female,feminine,she/her,Naboo,Human,Queen of Naboo,,Politics,,,"Naboo fighter, H-type Nubian yacht, Naboo star skiff",1769-02-22 12:00:00,1796-05-07 12:00:00
+Jar Jar Binks,196,66,none,orange,orange,52,BBY,Naboo,,,,male,masculine,he/him,Naboo,Gungan,Senator of Chommell Sector ,,Communicating,,,,1763-02-06 12:00:00,
+Roos Tarpals,224,82,none,"white, purple",orange,,,,21,BBY,Naboo,male,masculine,he/him,Naboo,Gungan,Gungan Captain,,,,,,,1794-05-02 12:00:00
+Rugor Nass,206,,none,green,orange,,,,,,,male,masculine,he/him,Naboo,Gungan,Gungan Leader,,,,,,,
+Ric Olié,183,,light brown,fair,bluish green,,,,3,ABY,,male,masculine,he/him,Naboo,Human,Pilot,,,,,Naboo Royal Starship,,1818-07-08 12:00:00
+Watto,137,,black,blue,orange,,,,,,,male,masculine,he/him,Toydaria,Toydarian,Junk store proprietor,,,,,,,
+Sebulba,112,40,none,"beige, purple",orange,,,,,,,male,masculine,he/him,Malastare,Dug,Podracer pilot,,"Piloting, Racing","Weapons, Armor, Helmet, Googles",,,,
+Quarsh Panaka,183,,black,light brown,brown,62,BBY,Onoam,,,,male,masculine,he/him,Naboo,Human,Captain of the Queen Amidala's guard,,,"Leather jerkin, Officer cap, Pistols",,,1753-01-09 12:00:00,
+Shmi Skywalker Lars,163,,brown,fair,brown,72,BBY,,22,BBY,Tatooine,female,feminine,she/her,Tatooine,Human,Moisture farmer,,,,,,1742-12-13 12:00:00,1793-04-29 12:00:00
+Darth Maul,175,80,none,red,yellow,54,BBY,Dathomir,0,BBY,Kalakar Six,male,masculine,he/him,Dathomir,Zabrak,Dark Lord of the Sith,"Six-legged apparatus, Two cybernetic legs","Lightsaber training, Force abilities, Other talents",Lightsabers,Sith speeder,Scimitar,1761-01-31 12:00:00,1815-06-30 12:00:00
+Bib Fortuna,188,,none,pale,red,,,,9,ABY,Tatooine,male,masculine,he/him,Ryloth,Twi'lek,Chief aide to Jabba the Hutt,,,Clothing,,,,1824-07-24 12:00:00
+Aayla Secura,170,55,none,blue,hazel,48,BBY,,19,BBY,Felucia,female,feminine,she/her,Ryloth,Twi'lek,Twi'lek Jedi,,"Lightsaber training, Force powers",Lightsabers,,,1767-02-17 12:00:00,1796-05-07 12:00:00
+Ratts Tyerell,79,15,none,blue,black,,,,32,BBY,Tatooine,male,masculine,he/him,Aleen Minor,Aleena,Podracer pilot,,"Piloting, Racing",Googles,,,,1783-04-02 12:00:00
+Dud Bolt,94,45,none,"blue-gray, yellow, white",yellow,,,,,,,male,masculine,he/him,Vulpter,Vulptereen,Podracer pilot,,"Piloting, Racing",,Vulptereen 327 Podrace,,,
+Gasgano,122,,none,white,black,,,,,,,male,masculine,he/him,Troiken,Xexto,Podracer pilot,,"Piloting, Racing",,Ord Pedrovia,,,
+Ben Quadinaros,163,65,none,yellow,orange,,,,,,,male,masculine,he/him,Tund,Toong,Podracer pilot,,"Piloting, Racing",,BT31 Quadra,,,
+Mace Windu,192,84,none,dark,brown,72,BBY,Haruun Kal,19,BBY,Coruscant,male,masculine,he/him,Haruun Kal,Human,Jedi Master,,"Lightsaber training, Force mastery, Other abilities",Lightsabers,,,1742-12-13 12:00:00,1796-05-07 12:00:00
+Ki-Adi-Mundi,201,82,white,light,yellow,93,BBY,Cerea,19,BBY,Mygeeto,male,masculine,he/him,Cerea,Cerean,Jedi Master,,"Lightsaber abilities, Force powers",Lightsabers,,,1721-10-16 12:00:00,1796-05-07 12:00:00
+Kit Fisto,196,87,none,green,black,,,,19,BBY,Coruscant,male,masculine,he/him,Glee Anselm,Nautolan,Jedi Master,,"Lightsaber abilities, Force powers",Lightsabers,,,,1796-05-07 12:00:00
+Eeth Koth,187,,black,tan,brown,,,,14,BBY,,male,masculine,he/him,Nar Shaddaa,Iridonian Zabrak,Jedi Master,,"Lightsaber abilities, Force powers",Lightsabers,,,,1801-05-22 12:00:00
+Adi Gallia,184,50,none,dark,blue,,,,20,BBY,Florrum,female,feminine,she/her,Coruscant,Tholothian,Jedi Master,,"Lightsaber abilities, Force powers",Lightsabers,,,,1795-05-05 12:00:00
+Saesee Tiin,188,,none,dark orange,yellow-gray,,,,19,BBY,Coruscant,male,masculine,he/him,Iktotch,Iktotchi,Jedi Master,,"Lightsaber abilities, Force powers",Lightsabers,,,,1796-05-07 12:00:00
+Yarael Poof,264,,none,pasty white,red,,,,27,BBY,Coruscant,male,masculine,he/him,Quermia,Quermian,Jedi High Council member,,"Lightsaber abilities, Force powers",Lightsabers,,,,1788-04-15 12:00:00
+Plo Koon,188,80,none,orange,black,22,BBY,,19,BBY,Cato Neimoidia,male,masculine,he/him,Dorin,Kel Dor,Jedi Master,,"Lightsaber abilities, Force powers",Lightsabers,,Jedi starfighter,1793-04-29 12:00:00,1796-05-07 12:00:00
+Mas Amedda,196,91,none,blue,blue,,,,,,,male,masculine,he/him,Champala,Chagrian,Vice Chair of the Galactic Senate,,Politics,Clothing,,,,
+Gregar Typho,185,85,black,tan,brown,,,,18,BBY,Naboo,male,masculine,he/him,Naboo,Human,Head of security for Senator Padmé Amidala,,Piloting,Eye Patch,,Naboo fighter,,1797-05-10 12:00:00
+Cordé,157,,brown,light,brown,,,,22,BBY,Coruscant,female,feminine,she/her,Naboo,Human,Handmaiden,,,,,,,1793-04-29 12:00:00
+Cliegg Lars,183,,brown,fair,blue,82,BBY,Tatooine,20,BBY,Tatooine,male,masculine,he/him,Tatooine,Human,Moisture farmer,,,Clothing,,,1732-11-15 12:00:00,1795-05-05 12:00:00
+Poggle the Lesser,183,80,none,green,yellow,,,,19,BBY,Mustafar,male,masculine,he/him,Geonosis,Geonosian,Archduke of Geonosis,,,Clothing,,,,1796-05-07 12:00:00
+Luminara Unduli,170,56,gray,yellow,blue,58,BBY,Mirial,19,BBY,Kashyyyk,female,feminine,she/her,Mirial,Mirialan,Jedi Master,,"Lightsaber abilities, Force powers",Lightsabers,,,1757-01-20 12:00:00,1796-05-07 12:00:00
+Barriss Offee,166,50,black,olive,blue,40,BBY,Aboard a Starliner,19,BBY,Felucia,female,feminine,she/her,Mirial,Mirialan,Jedi Knight,,"Lightsaber abilities, Force powers",Lightsabers,,,1775-03-11 12:00:00,1796-05-07 12:00:00
+Dormé,165,,brown,light,brown,,,,,,,female,feminine,she/her,Naboo,Human,Handmaiden,,,,,,,
+Dooku,196,80,white,fair,brown,102,BBY,Serenno,19,BBY,Coruscant,male,masculine,he/him,Serenno,Human,Dark Lord of the Sith,,"Lightsaber training, Force abilities, Force lightning",Lightsabers,Flitknot speeder,,1712-09-21 12:00:00,1796-05-07 12:00:00
+Bail Prestor Organa,191,,black,tan,brown,67,BBY,,0,BBY,Alderaan,male,masculine,he/him,Alderaan,Human,Crown Prince of Alderaan,,,Clothing,,,1747-12-27 12:00:00,1815-06-30 12:00:00
+Jango Fett,183,79,black,tan,dark brown,66,BBY,Concord Dawn,22,BBY,Geonosis,male,masculine,he/him,Concord Dawn,Human,Bounty hunter,,,"Weapons, Vehicles",,,1748-12-29 12:00:00,1793-04-29 12:00:00
+Zam Wesell,168,55,blond,green,yellow,,,,22,BBY,Coruscant,female,feminine,she/her,Zolan,Clawdite,Bounty hunter,,"Shape-shifting, Tactical skills","Airspeeder, Armor, Arsenal, Assassin droid",Koro-2 Exodrive airspeeder,,,1793-04-29 12:00:00
+Dexter Jettster,198,102,none,gray,yellow,,,,,,,male,masculine,he/him,Ojom,Besalisk,Chef,,,,,,,
+Lama Su,229,88,none,white,black,,,,,,,male,masculine,he/him,Kamino,Kaminoan,Prime Minister of Kamino,,,,,,,
+Taun We,213,,none,white,black,,,,19,BBY,Bora Vio,female,feminine,she/her,Kamino,Kaminoan,Administrator aide,,,,,,,1796-05-07 12:00:00
+Jocasta Nu,167,,white,fair,blue,110,BBY,Coruscant,19,BBY,Coruscant,female,feminine,she/her,Coruscant,Human,Jedi Master,,"Lightsaber abilities, Force powers",Lightsabers,,,1704-08-30 12:00:00,1796-05-07 12:00:00
+R4-P17,96,,none,"silver, red","red, blue",,,,19,BBY,Coruscant,none,feminine,she/her,,Droid,Astromech droid,,,"Holographic projector, Recorder, Various utility, Repair tools",,,,1796-05-07 12:00:00
+Wat Tambor,193,48,none,green,black,,,,19,BBY,Mustafar,male,masculine,he/him,Skako,Skakoan,Foreman,"Vocalubator, Annunciator",,,,,,1796-05-07 12:00:00
+San Hill,191,,none,pasty yellow,gold,,,,19,BBY,Mustafar,male,masculine,he/him,Muunilinst,Muun,Chairman of the InterGalactic Banking Clan,,,,,,,1796-05-07 12:00:00
+Shaak Ti,178,57,none,"red, white, blue",black,,,,3,BBY,Felucia,female,feminine,she/her,Shili,Togruta,Jedi Master,,"Lightsaber abilities, Force powers",Lightsabers,,,,1812-06-21 12:00:00
+Grievous,216,159,none,"brown, white",gold,,,,19,BBY,Utapau,male,masculine,he/him,Kalee,Kaleesh,Jedi Hunter,Completely cebernetic except for brain,Lightsaber abilities,Lightsabers,Tsmeu-6 personal wheel bike,Belbullab-22 starfighter,,1796-05-07 12:00:00
+Tarfful,234,136,brown,brown,blue,,,,,,,male,masculine,he/him,Kashyyyk,Wookiee,Wookiee chieftain,,,Weapons,,,,
+Raymus Antilles,188,79,brown,light,brown,,,,0,BBY,Tantive IV,male,masculine,he/him,Alderaan,Human,Captain of the CR90 corvette,,Piloting,,,,,1815-06-30 12:00:00
+Sly Moore,178,48,none,pale,white,,,,18,BBY,,female,feminine,she/her,Umbara,Umbaran,Personal aide ,,"Politics, Force powers",,,,,1797-05-10 12:00:00
+Tion Medon,206,80,none,"gray, red",black,,,,,,,male,masculine,he/him,Utapau,Pau'an,Port Administrator,,Politics,Clothing,,,,
+Finn,178,73,black,dark,brown,11,ABY,,,,,male,masculine,he/him,,Human,General in the Rebel Alliance,,,,,,1826-07-30 12:00:00,
+Rey Skywalker,170,54,brown,light,hazel,15,ABY,Hyperkarn,35,ABY,Exegol,female,feminine,she/her,Jakku,Human,Jedi,,"Lightsaber abilities, Force powers, Force lightning","Hellhound two, Vehicles, Tools and wapons, Lightsabers",,,1830-08-10 12:00:00,1850-10-04 12:00:00
+Poe Dameron,172,80,dark brown,tan,brown,2,ABY,Yavin 4,,,,male,masculine,he/him,Yavin 4,Human,General in the Rebel Alliance,,Piloting,Clothing,,X-wing,1817-07-05 12:00:00,
+BB-8,67,18,none,"white, orange",red,29,ABY,,,,,none,masculine,he/him,Hosnian Prime,Droid,Astromech droid,,,"Grappling spike launcher, Welding torch, Holoprojector, Arc welder",,,1844-09-17 12:00:00,
+Captain Phasma,200,76,gold,light,blue,6,ABY,Parnassos,34,ABY,Crait system,female,feminine,she/her,Parnassos,Human,Stormtrooper commander,,Shooting,"Rust-read war mask, Armor coated, Weapons, Blasters",,,1821-07-16 12:00:00,1849-10-01 12:00:00
