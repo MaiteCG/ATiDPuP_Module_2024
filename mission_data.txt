@@ -1,0 +1,2 @@
+ name height mass hair_color skin_color eye_color birth_year birth_era birth_place death_year death_era death_place sex gender pronoun homeworld species occupation cybernetics abilities equipment vehicles starships
+45 "Ratts Tyerell" 79.0 15.0 none blue black    32.0 BBY Tatooine male masculine he/him "Aleen Minor" Aleena "Podracer pilot"  "Piloting, Racing" Googles  
