@@ -1,0 +1,2 @@
+ name height mass hair_color skin_color eye_color birth_year birth_era birth_place death_year death_era death_place sex gender pronoun homeworld species occupation cybernetics abilities equipment vehicles starships
+48 "Ben Quadinaros" 163.0 65.0 none yellow orange       male masculine he/him Tund Toong "Podracer pilot"  "Piloting, Racing"  "BT31 Quadra" 

@@ -1,0 +1,328 @@
+ "Unnamed: 0" Senator "Planet or sector represented" Term Notes "Species and gender" Planet Sector
+0 0 Aang Roona "c. 21 BBY"  "Roonan male"  
+1 1 "Aak, Ask" "Malastare and the Dustig sector" "22 BBY–19 BBY"  "Gran male"  
+2 2 "Adem'thorn, Yeb Yeb" "Makem Te and the Nilgaard sector" "c. 32 BBY"  "Swokes Swokes male"  
+3 3 "Alavar, Nee" "Lorrd and Kanz sector" "c. 19 BBY" "Arrested and executed by Palpatine" "Human female"  
+4 4 "Aldrete, Agrippa" "Alderaan and Alderaan sector" "c. 52 BBY" "Replaced by Bail Antilles" "Human male"  
+5 5 "Allum, Vivendi"  "c. 44 BBY"  male  
+6 6 "Amedda, Mas" Champala "c. 33 BBY" "elected as Vice Chair" "Chagrian male"  
+7 7 "Amidala, Padmé" "Naboo and Chommell sector" "c. 25 BBY-19 BBY" "Died giving birth to her children, Luke Skywalker and Leia Organa Solo" "Human female"  
+8 8 "Annon, Blix"  "c. 77 BBY" "Killed by heart attack" "Human male"  
+9 9 "Am-Ris, Paran" Cerea "c. 3653 BBY" "Became interim Supreme Chancellor" "Cerean male"  
+10 10 "Antilles, Bail" "Alderaan and Alderaan sector" "c. 33/32 BBY" "Replaced by Bail Prestor Organa" "Human male"  
+11 11 "Anujo, Cellheim"  "c. 19 BBY"    
+12 12 "Argente, Passel" "Murkhana and the Corporate Alliance" "c. 33 BBY–22 BBY" "Joined Separatists" "Koorivar male"  
+13 13 "Ashgad, Seti"  "c. 20 BBY" "exiled by Palpatine" "Human male"  
+14 14 "Atanna, Gabrial" Esseles "c. 0 BBY" "Spied on Esseles' defense industry for the Alliance to Restore the Republic" Male  
+15 15 "Atell, Voe"   "Joined Separatists" Female  
+16 16 "Awmeeth, Veedaaz" "Sarrish and Vensensor sector" "c. 19 BBY"  "Unidentified Sarrish species male"  
+17 17 "Baab, Fema" "Bajic sector" "c. 19 BBY"  "Human female"  
+18 18 "Bar Gane, Edcel" Roona "c. 33/32 BBY"  "Roonan male"  
+19 19 "Bel Iblis, Garm" "Corellia and Corellian sector" "c. 22 BBY–0 BBY" "Death faked" "Human male"  
+20 20 "Bendon, Tendau" "Ithor and Ottega sector" "c. 33 BBY–19 BBY" "arrested by Palpatine" "Ithorian male"  
+21 21 "Bertar, Canny Mandary" "Mrlsst and Tapani sector" "c. 23 BBY–0 BBY"  "Mrlssi female"  
+22 22 "Beruss, Doman" "Illodia and Illodia sector" "c. 19 BBY–0 BBY"  "Human male"  
+23 23 "Bibbeck, Char" "Colunda Prime and Colunda sector" "c. 22 BBY" Censured "Human male"  
+24 24 "Binks, Jar Jar" "Representative of the Gungan people of Naboo; later Senator of Naboo" "c. 22 BBY–19 BBY (Rep.); c. 19 BBY–6 BBY (Sen.)" "Replaced by Pooja Naberrie" "Gungan male"  
+25 25 "Bluss, By"   "Joined Separatists" Male  
+26 26 "Bonteri, Mina" Onderon  "Joined Separatists and assassinated" "Human female"  
+27 27 Braxis "Pho Ph'eah and Kalamith sector" "c. 19 BBY"  "Pho Ph'eahian male"  
+28 28 "Breemu, Bana" "Humbarine and Humbarine sector" "c. 19 BBY" "Arrested by Palpatine" "Human female"  
+29 29 "Bremack, Tyreca" "Agamar and Lahara sector" "c. 22 BBY" "Joined Separatists" "Human female"  
+30 30 "Bribbs, Beolars" Sullust  "Joined Separatists" "Sullustan male"  
+31 31 "Bronk, Dewell" Kedorzha "c. 22 BBY"  "Kedorzhan male"  
+32 32 "Brun, Rasit" "Rintonne and Lambda sector" "c. 22 BBY"  "Human male"  
+33 33 "Burtoni, Halle" Kamino "c. 22 BBY"  "Kaminoan female"  
+34 34 "Cadaman, Tanner" Feenix "c. 19 BBY" "Arrested amd supposedly executed by Palpatine" "Human male"  
+35 35 "Bu, Candabrine" Lansono "c. 22 BBY"  "Human female"  
+36 36 "Callen, Vi"  "c. 44 BBY"  male  
+37 37 "Card, Nix" "Associate Planetary Representative of the InterGalactic Banking Clan"  "Joined Separatists" "Muun male"  
+38 38 Chelo "Gerrard V" "c. 0 BBY"  "Human male"  
+39 39 Christo  "c. 22 BBY"  "Quarren male"  
+40 40 "Chuchi, Riyo" "Pantora and the Sujimis sector" "c. 22 BBY"  "Pantoran female"  
+41 41 "Clovis, Rush" Scipio "c. 22 BBY" "Joined Separatists and exposed as traitor" "Human male"  
+42 42 "Concorkill, Sweitt" "Sembla and the Sertar sector" "c. 19 BBY" "Arrested by Palpatine" "Vurk male"  
+43 43 "Contispex I"  "c. 11,000 BBY" "elected as Supreme Chancellor" "Human male"  
+44 44 "Coorr, Ronet" Iseno "c. 22 BBY–20 BBY" "Retired in disgrace after taking bribes from the Separatists" "Human male"  
+45 45 "Creip, Neb"  "c. 19 BBY"  "Human male"  
+46 46 Crote Frego "c. 40 BBY" "Arrested for criminal connections" "Human male"  
+47 47 "Danu, Giddean" "Kuat and Kuat sector" "c. 19 BBY" "Arrested by Palpatine" "Human male"  
+48 48 Darsana "Glee Anselm" "c. 22 BBY"  "Anselmi male"  
+49 49 "Deechi, Mee" "Umbara and the Ghost Nebula" "c. 22 BBY" "Stabbed and murdered by Lolo Purs" "Umbaran male"  
+50 50 "Dell, Harkon"  "c. 19 BBY"  male  
+51 51 "Derlin, Galen" Tiisheraan "c. 19 BBY" "Retired and assassinated by Palpatine's operatives" "Human male"  
+52 52 Des'sein  "c. 19 BBY"  male  
+53 53 "Dhori Tolas, Mina" Korvaii "—0 BBY"  "Human female"  
+54 54 "Dio, Lexi" "Uyter and the Lantillian sector" "c. 22 BBY–20 BBY" "Assassinated, replaced by Malé-Dee" "Human female"  
+55 55 "Divinian, Bog" Nuralee "26 BBY–22 BBY"  "Human male"  
+56 56 "Dod, Lott" "Neimoidia and the Trade Federation" "c. 33 BBY" "Joined Separatists" "Neimoidian male"  
+57 57 "Ortell Donovan, James" Mindabaal "?–0 BBY" "Supposedly survived Imperial bormbardment of homeworld caused by Palpatine's orders" "Human male"  
+58 58 "Donte, Silvu" Riflor "c. 32 BBY" "Joined Separatists" "Advosze male"  
+59 59 "Dowmeia, Tundra" "Dac and Calamari sector" "22 BBY–19 BBY" "Arrested by Palpatine, replaced by Timi Rotramel" "Quarren male"  
+60 60 "Drake, Ivor" "Kestos Minor and Kwymar sector" "c. 19 BBY" "Arrested and supposedly executed by Palpatine" "Human female"  
+61 61 "Drexx, Bezz"  "c. 22 BBY" "Exposed for corruption after receiving bribes from the Separatists" male  
+62 62 "Eddawan, Galim" Tyan "c. 77 BBY"  "Human male"  
+63 63 "Eddicus, Anwis"   "Elected as Supreme Chancellor"   
+64 64 "Eekway, Chi" Wroona "c. 19 BBY" "Arrested by Palpatine" "Pantoran female"  
+65 65 Elrood      
+66 66 Elsah'sai'Moro "Devaron and Devaron Space" "c. 22 BBY" "Assassinated, replaced by Vien'sai'malloc" "Devaronian female"  
+67 67 "Estornii, Eeusu"  "c. 19 BBY"  "Zeuolin female"  
+68 68 Farazzish      
+69 69 "Farr, Onaconda" Rodia "c. 32 BBY–21 BBY" "Killed by poison from Lolo Purs, Farr had also previously joined the Separatists but re-joined the Republic" "Rodian male"  
+70 70 "F'ass, Dodra" "Clak'dor VII and Mayagil sector" "c. 22 BBY" "Joined Separatists" "Bith male"  
+71 71 Fillorean   "elected as Supreme Chancellor"   
+72 72 Fird "Alsakan and Coruscant sector"   "Human male"  
+73 73 "Fonti, Amita"   "Joined Separatists" "Gossam female"  
+74 74 "Fontin, Kare"  "c. 19 BBY–0 BBY"  "Human male"  
+75 75 "Fordox, Com" "Corellia and Corellian sector" "c. 33 BBY" "Replaced by Garm Bel Iblis" "Human male"  
+76 76 Gno  "c. 19 BBY–0 BBY"  male  
+77 77 Gopple Erigorm "c. 22 BBY–19 BBY"  "Human male"  
+78 78 "Goravvus, Haydel" "Taris and the Taris sector" "3,966 BBY-3,964 BBY" "First senator of Taris; disappeared during the Siege of Taris" "humanoid male"  
+79 79 "Gracus, Bor" "Sluis Van and Sluis sector" "c. 33 BBY" "replaced by Corlissi Ludar" "Human male"  
+80 80 Graw  "c. 3,963 BBY"  Male  
+81 81 Grebleips "Brodo Asogi and the Perinn sector" "c. 33 BBY–19 BBY" "Arrested by Palpatine" male  
+82 82 "Greejatus, Janus" "Chommell Minor and Chommell sector" "32 BBY–30 BBY" "replaced by Horace Vancil" "Human male"  
+83 83 "Greyshade, Jheramahd" "Vorzyd V and the Commonality" "c. 24 BBY" "Assassinated by Tsian, replaced by Simon Greyshade" "Human male"  
+84 84 "Greyshade, Simon" "Vorzyd V and the Commonality" "24 BBY–0 ABY"  "Human male"  
+85 85 "Gunray, Nute" "Neimoidia and the Trade Federation" "—44 BBY" "Replaced by Lott Dod" "Neimoidian male"  
+86 86 "Ha'Nook, Jannie" Glithnos "c. 20 BBY–19 BBY"  "Human female"  
+87 87 "Harbright, Selnia" Salliche "c. 0 BBY"  "Human female"  
+88 88 Herbin  "c. 22 BBY"  male  
+89 89 "Howler, Zo" "Gravlex Med and Raioballo sector" "22 BBY–19 BBY"  "Anx male"  
+90 90 "Hrul, Boganni" "Ord Thoden and Dynali sector" "c. 22 BBY"  "Human male"  
+91 91 "Indriummsegh, Rennimdius B'thog" "Elom and the Sertar sector" "c. 22 BBY"  "Elomin male"  
+92 92 Iridik'k-stallu  "c. 19 BBY"  female  
+93 93 "irm-Drocubac, Nemrileo" "Tanjay IV" "c. 22 BBY" Assassinated "Tanjayan male"  
+94 94 Jubben  "c. 22 BBY" "Assassinated by Zam Wesell"   
+95 95 "Kaa, Chom Frey" "Representative of Ryloth and the Gaulus sector" "c. 32 BBY" "Arrested by Mace Windu" "Twi'lek male"  
+96 96 Kalpana   "elected as Supreme Chancellor"   
+97 97 "Kee, Denaria" "Associate Planetary Representative of Murkhana and the Corporate Alliance" "c. 33 BBY–22 BBY" "Joined Separatists" "Koorivar female"  
+98 98 Kharrus  "- 22 BBY" "Assassinated by Weequay pirates" "Gran male"  
+99 99 "Kim, Vidar" "Naboo and Chommell sector" "—52 BBY" "Assassinated supposedly by Palpatine, replaced by Palpatine" "Human male"  
+100 100 "Komain, Alet" Daimar "—19 BBY"  "Human male"  
+101 101 "Krasul, Zorin" Anaxes "3641 BBY"  "Human male"  
+102 102 Krystal "Malastare and the Dustig sector" "c. 0 BBY"  "Human male"  
+103 103 "Kuna, Fo" "Representative of Gravlex Med and the Raioballo sector" "22 BBY–19 BBY"  "Anx male"  
+104 104 "Kushi, Kerch"   "Joined Separatists" Male  
+105 105 Largetto  "c. 19 BBY"  male  
+106 106 "Lawise, Bec"   "Joined Separatists" "Siniteen male"  
+107 107 "Ledwellow, Danry" "Er'Kit and the Noonian sector" "c. 22 BBY"  "Er'Kit male"  
+108 108 "Lenoan Risi" "Kuat and Kuat sector" "c. 22 BBY" "Removed from office and replaced by Giddean Danu" "Human female"  
+109 109 "Li, Eelen" Triffis "pre-32 BBY—"  Triffian  
+110 110 "Limoth, Garlan" "Trans-Nebular sector" "c. 32 BBY–19 BBY" "Assassinated on the orders of Palpatine" "Human male"  
+111 111 "Looruya, Havriso" "Yir Tangee" "c. 22 BBY"  "Human male"  
+112 112 "Ludar, Corlissi" "Sluis Van and Sluis sector" "c. 22 BBY" "Joined Separatists" "Sluissi male"  
+113 113 "Maas, Ilov" Delphon "c. 0 BBY"  "Human male"  
+114 114 Malé-Dee "Uyter and the Lantillian sector" "20 BBY–19 BBY" "Arrested by Palpatine" "Human male"  
+115 115 "Matrin, Quorl" "the Gordian Reach" "c. 0 BBY"  "Human male"  
+116 116 Maxim  "c. 33 BBY"    
+117 117 Mcnamara  "Before 1 ABY" Imperial-aligned male  
+118 118 "Merrik, Tal" "Kalevala and the Mandalore sector" "c. 22 BBY" "Joined Separatists and was executed as a traitor" "Human male"  
+119 119 "Metonae, Tash" Alderaan "Contemporary with Supreme Chancellor Vaila Pecivas"  Human  
+120 120 "Mezzileen, Signet"   "Elected as Supreme Chancellor"   
+121 121 "Moe, Aks" "Malastare and the Dustig sector" "c. 33 BBY–22 BBY" "Assassinated, replaced by Ask Aak" "Gran male"  
+122 122 Moje "Associate Planetary Representative of Thustra"  "Joined Separatists" "Sephi male"  
+123 123 Morvis "Chandrila and Bormea sector" "c. 3963 BBY" "On third term" "Human female"  
+124 124 "Mosbree, Arcel" "Brentaal and Bormea sector" "c. 22 BBY" Retired "Human male"  
+125 125 "Mothma, Mon" "Chandrila and Bormea sector" "c. 19 BBY–0 BBY" "Exposed as a member of the Rebel Alliance, replaced by Canna Omonda" "Human female"  
+126 126 Mousul "Ansion and the Churnis sector" "c. 22 BBY" "Joined Separatists" "Ansionian male"  
+127 127 "Naberrie, Pooja" "Naboo and Chommell sector" "c. 6 BBY–0 BBY"  "Human female"  
+128 128 Navi "Thustra and the Sumitra sector" "c. 21 BBY" "Joined Separatists and arrested for attempting to kill Yoda" "Sephi male"  
+129 129 Netus   "Elected as Minister of Defense" male  
+130 130 "Niopua, Ihu"  "c. 21 BBY"  male  
+131 131 "Not Rab, Mot"  "c. 33/32 BBY"  "Tarnab male"  
+132 132 "Nudo, Po" "Ando and Dufilvian sector" "c. 33 BBY–22 BBY" "Joined Separatists; replaced by an Aquala male" "Ualaq male"  
+133 133 "Olbeg, Han" "Pitann and Kathol sector" "c. 22 BBY"  "near-Human male"  
+134 134 "Omonda, Canna" "Chandrila and Bormea sector" "0 BBY" "Executed by Palpatine" "Human female"  
+135 135 Oodora Manaan     
+136 136 Oraltor "Ithor and Ottega sector"   "Ithorian male"  
+137 137 Oranda "Agamar and the Lahara sector" "3643 BBY"  "Human female"  
+138 138 "Organa, Bail" "Alderaan and Alderaan sector" "c. 22 BBY–2 BBY" "Murdered when Alderaan blew up on the orders of Palpatine" "Human male"  
+139 139 "Organa, Leia" "Alderaan and Alderaan sector" "2 BBY–0 BBY" Arrested "Human female"  
+140 140 "Ot'Hyne, Eeshrin" Caamas "c. 22 BBY"  "Caamasi male"  
+141 141 "Paddie, Ister" "Sermeria and the Locris sector" "c. 22 BBY"  "Human male"  
+142 142 Page "Corulag and Bormea sector" "c. 0 BBY"  "Human male"  
+143 143 "Paige-Tarkin, Shayla" "Eriadu and Seswenna sector" "c. 22 BBY–19 BBY"  "Human female"  
+144 144 Palpatine "Naboo and Chommell sector" "52 BBY–32 BBY" "Elected as Supreme Chancellor, replaced by Janus Greejatus" "Human male"  
+145 145 "Pecivas, Vaila"   "Elected as Supreme Chancellor"   
+146 146 Philo  "c. 22 BBY" "Assassinated by Cad Bane" "Gran male"  
+147 147 "Plain, Mak" "Associate Planetary Representative of the InterGalactic Banking Clan"  "Joined Separatists" "Muun male"  
+148 148 "Ransa, Bicon"  "c. 44 BBY"  "Human male"  
+149 149 Ravein "Alderaan and Alderaan sector"   "Human male"  
+150 150 "Regrap, Mik" "Associate Planetary Representative of Neimoidia and the Trade Federation"  "Joined Separatists" "Neimoidian male"  
+151 151 "Resbin, Jollin" "Sneeve and Kastolar sector" "c. 22 BBY"  "Sneevel male"  
+152 152 "Rimbaud, Punn"   "Joined Separatists" Female  
+153 153 "Ritsomas, Bufus" "Till Chorios and Meridian sector" "c. 22 BBY" "Joined Separatists" male  
+154 154 "Robb, Kin" "Taris and Ojoster sector" "c. 22 BBY"  "Human female"  
+155 155 Rodd "Fondor and Tapani sector" "c. 23 BBY" "Joined Separatists, replaced by Canny Mandary Bertar" "Human male"  
+156 156 "Hurst Romodi"  "—0 BBY" "sat in the Death Star conference room" "Human male"  
+157 157 "Rotramel, Timi" "Dac and Calamari sector" "c. 0 BBY" "Executed by Darth Vader for attempting to recruit Si-Di-Ri to the Rebel Alliance" "Mon Calamari male"  
+158 158 "Rotsino, Esu" "Abrion Major and Abrion sector" "c. 22 BBY" "Joined Separatists" "Human female"  
+159 159 "Ryyder, Horox" "Gravlex Med and Raioballo sector" "c. 71 BBY–22 BBY" "Retired, replaced by Zo Howler" "Anx male"  
+160 160 "Sadashassa, Shea" Herdessa "c. 19 BBY" "Arrested and supposedly executed by Palpatine" "Human female"  
+161 161 "Saam, Gume" Tibrin "c. 19 BBY" "Joined Separatists" "Ishi Tib"  
+162 162 "Sauro, Sano" Eeropha "c. 37 BBY–c. 19 BBY"  "Human male"  
+163 163 "Scoritoles, Daggibus" Yag'Dhul "c. 22 BBY" "Joined Separatists" "Givin male"  
+164 164 "Sedran, Yudrish" Chalacta "c. 22 BBY"  "Chalactan female"  
+165 165 "Se'Lab, Polo" "Bothawui and Bothan sector" "c. 32 BBY–0 BBY"  "Bothan male"  
+166 166 "Sh'neel, R'shinnos" "Genassa and M'shinni sector" "c. 22 BBY"  M'shin  
+167 167 "Shessaun, Silya" "Thesme and Thesme sector" "c. 19 BBY"  "Human female"  
+168 168 "Sidras, Mael"   Assassinated "Human male"  
+169 169 "Sirrom, Gem"  "c. 19 BBY"  "Human Female"  
+170 170 "Snopps, Zafiel" "Corulag and Bormea sector" "c. 33 BBY–after 19 BBY" "Replaced by Page" "Human male"  
+171 171 "S'orn, Uta" Belasco "c. 42 BBY" "Retired, Arrested" "Human female"  
+172 172 Spince "Corellia and Corellian sector"   "Human male"  
+173 173 Streamdrinker "Tynna and the Tynna sector" "19 BBY" "Arrested and supposedly executed by Palpatine" "Tynnan male"  
+174 174 "Taa, Orn Free" "Ryloth and the Gaulus sector" "c. 33 BBY–19 BBY"  "Twi'lek male"  
+175 175 "Talon, Pel"  "c. 19 BBY–c. 2 BBY"  "Human male"  
+176 176 "Taloon, Rhya" Agridorn "c. 19 BBY" "Received death mark from Palpatine, joined the Erased" "Human female"  
+177 177 "Tambor, Wat" "Metalorn and the Techno Union" "c. 33 BBY–22 BBY" "Joined Separatists" "Skakoan male"  
+178 178 "Taneel, Terr" "Neelanon and Senex sector" "c. 19 BBY" "Arrested by Palpatine" "Human female"  
+179 179 "Tara, V'troren"  "c. 19 BBY"  "Twi'lek male"  
+180 180 "Tarkin, Ranulph" "Eriadu and Seswenna sector" "c. 44 BBY" "Killed, replaced by Shayla-Paige Tarkin" "Human male"  
+181 181 "Tarturi, Berm" Andara "c. 26 BBY"  "Human male"  
+182 182 Tashrikam Grizmallt "c. 22 BBY"  Human  
+183 183 "Teem, Ainlee" "Representative of Malastare and the Dustig sector" "c. 32 BBY–22 BBY"  "Gran male"  
+184 184 "T'Egal, Pi"  "c. 44 BBY"  male  
+185 185 "Tal Teff" "Alzoc III" "3643 BBY"    
+186 186 Templeton      
+187 187 "Thorm, Hrekin" Fedalle "c. 0 BBY"  "Human male"  
+188 188 Tikkes "Dac and the Calamari sector" "c. 33 BBY–22 BBY" "Joined Separatists, replaced by Meena Tills and Tundra Dowmeia" "Quarren male"  
+189 189 "Tills, Meena" "Dac and the Calamari sector" "22-19 BBY" "Arrested by Palpatine, replaced by Timi Rotramel" "Mon Calamari female"  
+190 190 "Toora, Toonbuck" "Sy Myrth and the Phelleem sector" "c. 33 BBY–22 BBY" "Joined Separatists" "Sy Myrthian female"  
+191 191 "Toryn, Jasso"  "c. 22 BBY"  "Human male"  
+192 192 "Treen, Alastar" "Corulag and Bormea sector" "c. 22 BBY" "replaced by Zafiel Snopps" "Human male"  
+193 193 "Trell, Connus" "Representative of Ryloth and the Gaulus sector" "c. 32 BBY" "Killed by Jango Fett" "Twi'lek male"  
+194 194 "Tyrell, Bog" Aleen "c. 22 BBY"  "Aleena female"  
+195 195 "Vagger, Gorothin" "Andosha II and the Andoan Free Colonies" "c. 22 BBY–19 BBY"  "Ualaq male"  
+196 196 "Vancil, Horace" "Naboo and Chommell sector" "30 BBY–24 BBY" "succeeded by Padmé Amidala" "Human male"  
+197 197 "Valorum, Eixes"  "c.100 BBY" "Elected as Supreme Chancellor" Human  
+198 198 "Valorum, Finis" "Spira and Lytton sector" "60 BBY–40 BBY" "Elected as Supreme Chancellor" "Human male"  
+199 199 "Valorum, Tarsus"  "c.1000 BBY" "Elected as Supreme Chancellor" "Human male"  
+200 200 "Vibrion, Gebnerret" "Ghorman and Sern sector" "c. 19 BBY–0 BBY"  "Human male"  
+201 201 Vien'sai'Malloc "Devaron and Devaron Space" "22 BBY" "Joined Separatists and was executed for hiring Aurra Sing to murder Senator Elsah'sai'Moro" "Devaronian female"  
+202 202 Viento  "c. 32 BBY–21 BBY" "Joined Separatists and assassinated" "Human male"  
+203 203 "Vordu, Alku" Daroon "c. 0 BBY"  "Human male"  
+204 204 "Wallen, Jonus" "Darlon and Darlon sector" "c. 22 BBY" Censured "Human male"  
+205 205 "Wena Havid" Kalarba "c. 5 BBY" Killed "Human male"  
+206 206 "Wodrata, Rogwa" "Alliga and Phelleem sector" "c. 22 BBY" "Joined Separatists" "Holwuff male"  
+207 207 "Wojaine, Wuja" "Pydyr and the Mortex sector" "c. 22 BBY" "Joined Separatists" Pydyrian  
+208 208 "Wrede, Lanus" "Sermeria and the Locris sector" "c. 22 BBY" "Supposedly committed suicide, replaced by Ister Paddie" "Human male"  
+209 209 "Wren, Lavina Durada-Vashne" Cularin "34-19 BBY"  "Human female"  
+210 210 Wuxod "Derilyn and Elrood sector" "c. 0 BBY"  "Human male"  
+211 211 Yarua "Kashyyyk and Mytaranor sector" "c. 33 BBY–19 BBY"  "Wookiee male"  
+212 212 "Yeb, Solipo"  "c. 19 BBY"  "Human male"  
+213 213 Yufwa Malastare "c. 22 BBY"  "Gran male"  
+214 214 "Unidentified Echani Senator" Eshan  "Killed by Darth Revan" Echani  
+215 215 "Zar, Fang" "Sern Prime and Sern sector" "c. 22 BBY–19 BBY" "Arrested by Palpatine" "Human male"  
+216 216 "Zian, Grom" "Solu Five" "3,641 BBY" "Arrested for treason" "Chagrian male"  
+217 217 Zurros Falleen "c. 21 BBY" "Joined Separatists" "Falleen male"  
+218 218 "Eero Iridian's father[2]"  "c. 90 BBY[2]"  "Male of a species[2]"  
+0 0 "Atell, Voe"  "c. 21 BBY"  "Alien female"  
+1 1 "Bluss, By"  "c. 21 BBY"  "Leyakian male"  
+2 2 "Bonteri, Lux"  "c. 21 BBY" "Replaced his mother, later renounced the Separatists" "Human male" Onderon 
+3 3 "Bonteri, Mina"  "c. 21 BBY" "Murdered ordered secretly by Dooku" "Human female" Onderon 
+4 4 "Fonti, Amita"  "c. 21 BBY"  "Gossam female"  
+5 5 "Kushi, Kerch"  "c. 21 BBY"  "Alien male"  
+6 6 "Lawise, Bec"  "c. 21 BBY" "Became Separatist Congress Leader" "Siniteen male"  
+7 7 "Rimbaud, Punn"  "c. 21 BBY"  "Amphibious alien female"  
+0 0 "Gial Ackbar"  "4 ABY–c. 10 ABY" "Replaced by Q-Varx" "Mon Calamari male" "Mon Calamari" "Calamari sector"
+1 1 "A'Kla, Elegos"  "19 ABY–25 ABY" "Murdered by Shedao Shai, replaced by Releqy A'Kla" "Caamasi male" Caamas --
+2 2 "A'Kla, Releqy"  "25 ABY–c. 35 ABY"  "Caamasi female" Caamas --
+3 3 Amamanam  "c. 16 ABY"  "B'das male" "the B'das people" --
+4 4 Amara    "Human male" -- --
+5 5 "Anglethorn, Darial"  "7 ABY–after 8 ABY"  "Human female" Beheboth "Sanbra sector"
+6 6 Arastide  "c. 13 ABY"  "Human male" Gantho --
+7 7 Behn-kihl-nahm  "prior to 16 ABY" "Elected as Senate Chairman" male -- --
+8 8 "Bel Iblis, Garm"  "11 ABY–prior to 16 ABY" "Replaced by Chelch Dravvad" "Human male" Corellia "Corellian sector"
+9 9 "Beruss, Doman"  "4 ABY–c. 10 ABY" "Replaced by Garm Bel Iblis" "Human female" Corellia "Corellian sector"
+10 10 "Beruss, Doman"  "c. 16 ABY"  "Human male" Illodia "Illodia sector"
+11 11 "Bogen, Ab'el"  "c. 16 ABY"  "Human male" Ralltiir "Darpa sector"
+12 12 "Boma (Gungan)"  "c. 13 ABY"  "Gungan male" Naboo "Chommell sector"
+13 13 "Boras, Fyg"  "c. 26 ABY–c. 28 ABY"  "Vor male" Vortex "Glythe sector"
+14 14 "Bramsin, Fost"  "c. 43 ABY"  "Human male" Coruscant "Coruscant sector"
+15 15 "B'thog Indriummsegh, Verrinnefra"  "4 ABY–c. 10 ABY" "Replaced by Rattagagech" "Elomin male" Elom "Sertar sector"
+16 16 Charr  "c.40 ABY"  "Human male" Corellia "Corellian sector"
+17 17 Cilghal  "c. 13 ABY–c. 24 ABY" "Replaced by Pwoe and Gron Marrab" "Mon Calamari female" Dac "Calamari sector"
+18 18 C-Gosf  "c. 17 ABY"  "Gosfambling male" Gosfambling "Lifh sector"
+19 19 ChoFï  "c. 6 ABY–c. 17 ABY"  male -- --
+20 20 "Coome, R'yet[4]"  "17 ABY—"  "Exodeenian male" Exodeen[5] --
+21 21 "Cornin, Ala"    female  --
+22 22 "Cundertol, Molierre"  "c. 16 ABY–17 ABY"  "Human male" Bakura "Shiritoku Spur"
+23 23 "Deega, Nara"  "c. 16 ABY" "replaced by E'noro" "Bith male" "Clak'dor VII" "Mayagil sector"
+24 24 Drankin  "c. 16 ABY"  "Human male" -- --
+25 25 "Dravvad, Chelch"  "c. 25 ABY–c. 27 ABY" "Replaced by Charr" "Human male" Corellia "Corellian sector"
+26 26 "Drey'lye, Tiurgg"  "c. 43 ABY" "head of the Senate Unification Preparations Committee" "Bothan male" Bothawui "Bothan sector"
+27 27 "Dru, Dall Thara"  "c. 16 ABY"  "Human female" Raxxa --
+28 28 "Dx'ono, Ghic"  "c. 19 ABY"  "Ishori male" Isht "Ishori Confederene"
+29 29 E'noro  "c. 26 ABY"  "Bith female" "Clak'dor VII" "Mayagil sector"
+30 30 "Ekhat, Nav"  "c. 40 ABY"  male Murkhana "Auril sector"
+31 31 "Falanthas, Mokka"  "c. 13 ABY–c. 16 ABY"  Human -- --
+32 32 "Feswin, Chau"  "c. 28 ABY"  "Human male" Elrood "Elrood sector"
+33 33 "Fey'lya, Borsk"  "4 ABY–24 ABY" "Elected as President; replaced by Mak Sezala" "Bothan male" Kothlis "Bothan sector"
+34 34 Frammel  "c. 16 ABY"   -- --
+35 35 "G'Sil, G'vli"  "c. 40 ABY" "Replaced by Bramsin Fost" "Human male" Coruscant "Coruscant sector"
+36 36 "Gadan, Addath"  "c. 8 ABY–27 ABY" "Exposed as traitor" "Human female" Vannix --
+37 37 "Gahan, Gial"  "c. 130 ABY" "Executed by Darth Krayt" "Mon Calamari male" "Mon Calamari" "Calamari sector"
+38 38 "Gavrisom, Ponc"  "prior to 19 ABY" "elected as President" "Calibop male" "the Calibop people" --
+39 39 Gno  "c. 6 ABY–c. 17 ABY"  male -- --
+40 40 "Harbright, Borert"  "c. 25 ABY"  "Human male" Salliche --
+41 41 "H'aas, Nab"  "c. 41 ABY"  Bith "Clak'dor VII" "Mayagil sector"
+42 42 Hodidiji  "c. 16 ABY"  male -- --
+43 43 "Iman, J'mesk"  "c. 24 ABY"  "Tamran male" "the Tamran people" --
+44 44 "Kvarm Jia"  "c. 27 ABY"  "Human male" -- "Tapani sector"
+45 45 "Kem, Rokari"  "c. 44 ABY" "elected as President" "Jessar female" Qaras 
+46 46 Kerrithrarr[5]  "4 ABY–c. 17 ABY" "Voted against former Imperials to serve in the Senate[5]" "Wookiee male[5]" Kashyyyk "Mytaranor sector"
+47 47 "Korden, Arani"  "New Republic era[6]"  "Human female" Naboo "Chommell sector"
+48 48 Kybacca[7]  -- "Voted against former Imperials to serve in the Senate[7]" "Wookiee female[7]" -- --
+49 49 Lillald  "c. 16 ABY"  "Human male" -- --
+50 50 "M'yet Luure[4]"  "—17 ABY" "murdered; replaced by R'yet Coome[4]" "Exodeenian male" Exodeen[4] --
+51 51 "Marook, Cian"  "11 ABY–c. 17 ABY"  "Hrasskis male" Hrasskis --
+52 52 "Marrab, Gron"  "c. 25 ABY–c. 29 ABY"  "Mon Calamari male" Dac "Calamari sector"
+53 53 Meido  "17 ABY—"  male Adin --
+54 54 "Miatamia, Potolo"  "c. 19 ABY"  "Diamal male" Diamal --
+55 55 "Moolis, Umwaw"  "c. 12 ABY"  "Ithorian female" Ithor "Ottega sector"
+56 56 "Mothma, Mon"  "4 ABY–11 ABY" "elected as President" "Human female" "Councilor of Chandrila" "Bormea sector"
+57 57 "Mulaxis, Muchardis"  "prior to 19 ABY"  "Ayrou male" "Ovise III" "Moddell sector"
+58 58 Navik  "c. 25 ABY–c. 29 ABY" "replaced by Moog Ulur" "Rodian male" Rodia "Savareen sector"
+59 59 "Niuv, Niuk"  "c. 25 ABY–c. 29 ABY"  "Sullustan male" Sullust "Brema sector"
+60 60 "Noimm, Cair Tok"  "c. 16 ABY"  female -- --
+61 61 Nyxy  "c. 17 ABY" "replaced by Thuv Shinev"  Rudrig "Tion Hegemony"
+62 62 "Odaay, Luralon"  "some time between 11 ABY and 18 ABY" assassinated "Turian male"  "Limbala sector"
+63 63 "Omas, Cal"  "after 11 ABY–27 ABY" "elected as President" "Human male" Alderaan "Alderaan sector"
+64 64 "Ovin, Padnel"  "c. 44 ABY" "elected as President" "Klatooinian male" Klatooine 
+65 65 "Peramis, Tig"  "16 ABY" censured "Human male" Walalla "Seventh Security Zone"
+66 66 Ph'Olla  "c. 41 ABY"  Bith "Clak'dor VII" "Mayagil sector"
+67 67 Plif  "c. 6 ABY–c. 25 ABY"  "Hoojib male" Arbra "Bon'nyuw-Luq sector"
+68 68 "Praget, Krall"  "c. 16 ABY"  "Edathan male" Edatha --
+69 69 Pwoe  "c. 25 ABY–28 ABY" "exposed as a traitor" "Quarren male" Dac "Calamari sector"
+70 70 "Pym, Drextar[8]"  -- "Lead the panel responsible for prosecuting former Imperial officials and military leaders; attempt made on his life by a former member of the Storm commandos.[8]" "Human male[8]" Excarga[8] "Herios sector"
+71 71 Quedlifu  "c. 19 ABY"   -- --
+72 72 "Quis, Cola"  "c. 27 ABY–c. 29 ABY"  "Twi'lek male" Ryloth "Gaulus sector"
+73 73 Q-Varx[9]  "—13 ABY" "A New Republic Council member and a leader of the Rationalist Party on Dac; he accepted a bribe to arrange a meeting between Leia Organa Solo and Seti Ashgad.[9] He was replaced by Cilghal" "Mon Calamari male[9]" Dac[9] "Calamari sector[9]"
+74 74 "Ranth, Ta'laam"  "c. 25 ABY–c. 35 ABY"  "Gotal male" "Antar 4" --
+75 75 Rattagagech  "c. 16 ABY"  "Elomin male" Elom "Sertar sector"
+76 76 "Rockbender, Deggan"  "c. 44 ABY"  "Human male" Tatooine "Arkanis sector"
+77 77 "Rodan, Fyor"  "c. 25 ABY–c. 29 ABY"  "Human male" Commenor --
+78 78 "Sezala, Mak"  "24 ABY–c. 27 ABY" "replaced by Tiurrg Drey'lye" "Bothan male" Bothawui "Bothan sector"
+79 79 "Shesh, Viqi"  "19 ABY–26 ABY" "exposed as a traitor" "Human female" Kuat "Kuat sector"
+80 80 Shibatthi  "c. 19 ABY"   -- --
+81 81 "Shinev, Thuv"  "c. 25 ABY–c. 29 ABY"  "Human male" -- "Tion Hegemony"
+82 82 "SoBilles, Jenssar"  "4 ABY–c. 10 ABY"  "Duros male" Duro "Duro sector"
+83 83 "Solo, Leia Organa"  "4 ABY–11 ABY" "elected as President; replaced by Hrekin Thorm" "Human female" "Councilor of Alderaan" "Alderaan sector"
+84 84 "Tevv, Sian"  "4 ABY–c. 10 ABY" "Signatory of the Declaration of a New Republic; replaced by Niuk Niuv" "Sullustan male" "Councilor of Sullust" "Brema sector"
+85 85 "Treen, Haydnat"  "c. 43 ABY"  "Human female" Kuat "Kuat sector"
+86 86 Triebakk  "c. 25 ABY–35 ABY" "Member of the New Republic Advisory Council" "Wookiee male" Kashyyyk "Mytaranor sector"
+87 87 Trubor  "—24 ABY" "Killed while investigating the Diversity Alliance" "Chadra-Fan male" Chad "Jospro sector"
+88 88 Tuomi  "c. 16 ABY"  "Bosch male" Bosch --
+89 89 Typia  "c. 13 ABY" "A member of the Daysong political faction"  -- --
+90 90 "Ulur, Moog"  "c. 35 ABY"  "Rodian male" Rodia "Savareen sector"
+91 91 "Verwood, Kaysil"  "4 ABY—"  "Zabrak female" Iridonia "Glythe sector"
+92 92 "Wuul, Luewet"  "c. 44 ABY"  "Sullustan male" Sullust 
+93 93 Wwebyls  "c. 17 ABY"  "Yn male" Yn --
+94 94 Wynl  "c. 25 ABY"  "Baragwin male" "the Baragwin people" --
+95 95 "Yar, Tolik"  "c. 16 ABY–c. 25 ABY" "Member of the Council on Security and Intelligence" "Oolid male" Oolidi --
+96 96 Zalk't  "c. 35 ABY"  Vratix Thyferra "Jaso sector"
+97 97 Zilar  "c. 16 ABY" "Member of the Senate Defense Council" "Human male" Praesitlyn "Sluis sector"
+98 98 "Unidentified Exodeenian senator[5]"  "—17 ABY[5]" "Killed during the Senate Hall bombing[5]" "Exodeenian male[5]" Exodeen[5] --
+99 99 "Unidentified Nyny senator[5]"  "—17 ABY[5]" "Killed during the Senate Hall bombing[5]" "Nyny species male[5]" Nyny[5] "Ash Worlds"

@@ -1,0 +1,2 @@
+ name height mass hair_color skin_color eye_color birth_year birth_era birth_place death_year death_era death_place sex gender pronoun homeworld species occupation cybernetics abilities equipment vehicles starships
+22 Bossk'wassak'Cradossk 190.0 113.0 none green orange 53.0 BBY Trandosha    male masculine he/him Trandosha Trandoshan "Bounty hunter"   "Weapons, Blasters"  

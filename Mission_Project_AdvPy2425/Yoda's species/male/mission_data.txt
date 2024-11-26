@@ -1,0 +1,2 @@
+ name height mass hair_color skin_color eye_color birth_year birth_era birth_place death_year death_era death_place sex gender pronoun homeworld species occupation cybernetics abilities equipment vehicles starships
+18 Yoda 66.0 17.0 white green green-gold 896.0 BBY  4.0 ABY Dagobah male masculine he/him  "Yoda's species" "Jedi Master"  "Lightsaber training, Force powers, Other abilities" Lightsabers  

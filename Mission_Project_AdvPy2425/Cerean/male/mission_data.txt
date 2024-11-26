@@ -1,0 +1,2 @@
+ name height mass hair_color skin_color eye_color birth_year birth_era birth_place death_year death_era death_place sex gender pronoun homeworld species occupation cybernetics abilities equipment vehicles starships
+50 Ki-Adi-Mundi 201.0 82.0 white light yellow 93.0 BBY Cerea 19.0 BBY Mygeeto male masculine he/him Cerea Cerean "Jedi Master"  "Lightsaber abilities, Force powers" Lightsabers  

@@ -1,0 +1,2 @@
+ name height mass hair_color skin_color eye_color birth_year birth_era birth_place death_year death_era death_place sex gender pronoun homeworld species occupation cybernetics abilities equipment vehicles starships
+28 "Wicket Wystri Warrick" 80.0 20.0 brown brown "brownish black" 8.0 BBY Endor    male masculine he/him Endor Ewok "Ruler of Bright Tree Village"  "Force sensitivy" "Belt of Honor"  

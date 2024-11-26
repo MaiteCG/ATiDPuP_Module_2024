@@ -1,0 +1,2 @@
+ name height mass hair_color skin_color eye_color birth_year birth_era birth_place death_year death_era death_place sex gender pronoun homeworld species occupation cybernetics abilities equipment vehicles starships
+56 "Plo Koon" 188.0 80.0 none orange black 22.0 BBY  19.0 BBY "Cato Neimoidia" male masculine he/him Dorin "Kel Dor" "Jedi Master"  "Lightsaber abilities, Force powers" Lightsabers  "Jedi starfighter"

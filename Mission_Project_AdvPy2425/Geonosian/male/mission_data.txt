@@ -1,0 +1,2 @@
+ name height mass hair_color skin_color eye_color birth_year birth_era birth_place death_year death_era death_place sex gender pronoun homeworld species occupation cybernetics abilities equipment vehicles starships
+61 "Poggle the Lesser" 183.0 80.0 none green yellow    19.0 BBY Mustafar male masculine he/him Geonosis Geonosian "Archduke of Geonosis"   Clothing  

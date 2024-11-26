@@ -1,0 +1,2 @@
+ name height mass hair_color skin_color eye_color birth_year birth_era birth_place death_year death_era death_place sex gender pronoun homeworld species occupation cybernetics abilities equipment vehicles starships
+51 "Kit Fisto" 196.0 87.0 none green black    19.0 BBY Coruscant male masculine he/him "Glee Anselm" Nautolan "Jedi Master"  "Lightsaber abilities, Force powers" Lightsabers  

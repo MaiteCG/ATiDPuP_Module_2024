@@ -1,0 +1,2 @@
+ name height mass hair_color skin_color eye_color birth_year birth_era birth_place death_year death_era death_place sex gender pronoun homeworld species occupation cybernetics abilities equipment vehicles starships
+68 "Zam Wesell" 168.0 55.0 blond green yellow    22.0 BBY Coruscant female feminine she/her Zolan Clawdite "Bounty hunter"  "Shape-shifting, Tactical skills" "Airspeeder, Armor, Arsenal, Assassin droid" "Koro-2 Exodrive airspeeder" 

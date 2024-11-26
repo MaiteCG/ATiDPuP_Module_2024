@@ -1,0 +1,2 @@
+ name height mass hair_color skin_color eye_color birth_year birth_era birth_place death_year death_era death_place sex gender pronoun homeworld species occupation cybernetics abilities equipment vehicles starships
+75 "San Hill" 191.0  none "pasty yellow" gold    19.0 BBY Mustafar male masculine he/him Muunilinst Muun "Chairman of the InterGalactic Banking Clan"     

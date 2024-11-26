@@ -1,0 +1,2 @@
+ name height mass hair_color skin_color eye_color birth_year birth_era birth_place death_year death_era death_place sex gender pronoun homeworld species occupation cybernetics abilities equipment vehicles starships
+29 "Nien Nunb" 160.0 68.0 none gray black    35.0 ABY "Tantive IV" male masculine he/him Sullust Sullustan "CEO of Calrissian-Nunb Mines"  Piloting   "Millennium Falcon"

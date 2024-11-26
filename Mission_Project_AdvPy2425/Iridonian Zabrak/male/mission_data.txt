@@ -1,0 +1,2 @@
+ name height mass hair_color skin_color eye_color birth_year birth_era birth_place death_year death_era death_place sex gender pronoun homeworld species occupation cybernetics abilities equipment vehicles starships
+52 "Eeth Koth" 187.0  black tan brown    14.0 BBY  male masculine he/him "Nar Shaddaa" "Iridonian Zabrak" "Jedi Master"  "Lightsaber abilities, Force powers" Lightsabers  

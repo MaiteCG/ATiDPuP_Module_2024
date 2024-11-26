@@ -1,0 +1,2 @@
+ name height mass hair_color skin_color eye_color birth_year birth_era birth_place death_year death_era death_place sex gender pronoun homeworld species occupation cybernetics abilities equipment vehicles starships
+53 "Adi Gallia" 184.0 50.0 none dark blue    20.0 BBY Florrum female feminine she/her Coruscant Tholothian "Jedi Master"  "Lightsaber abilities, Force powers" Lightsabers  

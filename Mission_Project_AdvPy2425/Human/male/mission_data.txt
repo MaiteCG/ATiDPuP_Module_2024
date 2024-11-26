@@ -1,0 +1,29 @@
+ name height mass hair_color skin_color eye_color birth_year birth_era birth_place death_year death_era death_place sex gender pronoun homeworld species occupation cybernetics abilities equipment vehicles starships
+0 "Luke Skywalker" 172.0 77.0 blond light blue 19.0 BBY "Polis Massa" 34.0 ABY Ahch-To male masculine he/him Tatooine Human "Jedi Master" Prosthetic right hand "Lightsaber abilities, Force powers, Other abilities" "Lightsabers, Blasters" "Snowspeeder, Imperial Speeder Bike" "X-wing, Imperial shuttle"
+3 "Darth Vader" 202.0 136.0 sandy-blond pale yellow 41.0 BBY Tatooine 4.0 ABY "Death Star II" male masculine he/him Tatooine Human "Dark Lord of the Sith" "Prosthetic arms and legs, life-support system" "Lightsaber abilities, Force powers, Language known" "Clothing, Lightsabers"  "TIE Advanced x1"
+5 "Owen Lars" 178.0 120.0 brown light blue 52.0 BBY Ator 0.0 BBY Tatooine male masculine he/him Tatooine Human "Moisture farmer"  "Blaster abilities" "Blasters, SX-14 Field Hover-Ute, GX-8 Moisture Vaporators, Droids" "Zephyr-G swoop bike, V-35 Courier, T-16 Skyhopper" 
+8 "Biggs Darklighter" 183.0 84.0 black light brown 24.0 BBY Tatooine 0.0 BBY "Yavin system" male masculine he/him Tatooine Human Pilot  Piloting   X-wing
+9 "Obi-Wan Kenobi" 182.0 77.0 auburn fair blue-gray 57.0 BBY Stewjon 0.0 BBY "DS-1 Orbital Battle Station" male masculine he/him Stewjon Human "Jedi General"  "Lightsaber training, Force powers, Other abilities" Lightsabers "Tribubble bongo" "Jedi starfighter, Trade Federation cruiser, Naboo star skiff, Jedi Interceptor, Belbullab-22 starfighter"
+10 "Anakin Skywalker" 188.0 84.0 blond fair blue 41.0 BBY Tatooine 4.0 ABY "Death Star II" male masculine he/him Tatooine Human "Jedi Knight" "Cybernetic right arm" "Lightsaber training, Force powers" "Clothing, Lightsabers" "Zephyr-G swoop bike, XJ-6 airspeeder" "Naboo fighter, Trade Federation cruiser, Jedi Interceptor"
+11 "Wilhuff Tarkin" 180.0  auburn light blue 64.0 BBY Eriadu 0.0 BBY "Death Star I" male masculine he/him Eriadu Human "Station Commander"   "Uniforms, Blasters"  
+13 "Han Solo" 180.0 80.0 brown light hazel 29.0 BBY Corellia 34.0 ABY "Starkiller Base" male masculine he/him Corellia Human "General in the Rebel Alliance"  Piloting Weapons  "Millennium Falcon, Imperial shuttle"
+16 "Wedge Antilles" 170.0 77.0 "dark brown" fair hazel 21.0 BBY     male masculine he/him Corellia Human "Flight instructor"  Piloting "X-wings, T-47 airspeeder, Other fighters, Millennium Falsehood, Lusankya, Mon Mothma, Ground equipment" Snowspeeder X-wing
+17 "Jek Tono Porkins" 180.0 110.0 brown fair blue    0.0 BBY "Yavin system" male masculine he/him "Bestine IV" Human Pilot  Piloting "Rebel flight suit, Flight helmet, Goggles. Blasters"  X-wing
+19 Palpatine 173.0 75.0 red fair blue 82.0 BBY Naboo 11.0 ABY Onderon male masculine he/him Naboo Human "Emperor of the Galactic Empire"  "Lightsaber abilities, Force powers, Force lightning" Lightsabers  
+20 "Boba Fett" 183.0 78.0 black tan brown 31.0 BBY Kamino 45.0 ABY  male masculine he/him Kamino Human "Bounty hunter"  "Bountry hunter" "Helmet, Armor/Clothing, Rocket/Jetpack, Weaponry, Mandalorian armor"  "Slave 1"
+23 "Lando Calrissian" 177.0 79.0 black dark brown 31.0 BBY Socorro    male masculine he/him Socorro Human "General in the Rebel Alliance"  "Piloting, Drebble" Clothing  "Millennium Falcon"
+24 Lobot 175.0 79.0 none light blue 37.0 BBY     male masculine he/him Bespin Human "Chief administrative aide" "AJ^6 cyborg construct"  Clothing  
+27 "Arvel Crynyd"   brown light brown    4.0 ABY "Endor system" male masculine he/him Thyferra Human Pilot  Piloting "Flight suit, Helmet"  A-wing
+30 "Qui-Gon Jinn" 193.0 89.0 brown light blue-gray 92.0 BBY Coruscant 32.0 BBY Naboo male masculine he/him  Human Jedi  "Lightsaber training, Force powers, Other abilities" "Lightsabers, Poncho, Hush-98 comlink, Imagecaster" "Tribubble bongo" 
+32 "Finis Valorum" 170.0  blond light blue 82.0 BBY     male masculine he/him Coruscant Human "Supreme Chancellor"  Politics Clothing  
+37 "Ric Olié" 183.0  "light brown" fair "bluish green"    3.0 ABY  male masculine he/him Naboo Human Pilot     "Naboo Royal Starship"
+40 "Quarsh Panaka" 183.0  black "light brown" brown 62.0 BBY Onoam    male masculine he/him Naboo Human "Captain of the Queen Amidala's guard"   "Leather jerkin, Officer cap, Pistols"  
+49 "Mace Windu" 192.0 84.0 none dark brown 72.0 BBY "Haruun Kal" 19.0 BBY Coruscant male masculine he/him "Haruun Kal" Human "Jedi Master"  "Lightsaber training, Force mastery, Other abilities" Lightsabers  
+58 "Gregar Typho" 185.0 85.0 black tan brown    18.0 BBY Naboo male masculine he/him Naboo Human "Head of security for Senator Padmé Amidala"  Piloting "Eye Patch"  "Naboo fighter"
+60 "Cliegg Lars" 183.0  brown fair blue 82.0 BBY Tatooine 20.0 BBY Tatooine male masculine he/him Tatooine Human "Moisture farmer"   Clothing  
+65 Dooku 196.0 80.0 white fair brown 102.0 BBY Serenno 19.0 BBY Coruscant male masculine he/him Serenno Human "Dark Lord of the Sith"  "Lightsaber training, Force abilities, Force lightning" Lightsabers "Flitknot speeder" 
+66 "Bail Prestor Organa" 191.0  black tan brown 67.0 BBY  0.0 BBY Alderaan male masculine he/him Alderaan Human "Crown Prince of Alderaan"   Clothing  
+67 "Jango Fett" 183.0 79.0 black tan "dark brown" 66.0 BBY "Concord Dawn" 22.0 BBY Geonosis male masculine he/him "Concord Dawn" Human "Bounty hunter"   "Weapons, Vehicles"  
+79 "Raymus Antilles" 188.0 79.0 brown light brown    0.0 BBY "Tantive IV" male masculine he/him Alderaan Human "Captain of the CR90 corvette"  Piloting   
+82 Finn 178.0 73.0 black dark brown 11.0 ABY     male masculine he/him  Human "General in the Rebel Alliance"     
+84 "Poe Dameron" 172.0 80.0 "dark brown" tan brown 2.0 ABY "Yavin 4"    male masculine he/him "Yavin 4" Human "General in the Rebel Alliance"  Piloting Clothing  X-wing

@@ -1,0 +1,2 @@
+ name height mass hair_color skin_color eye_color birth_year birth_era birth_place death_year death_era death_place sex gender pronoun homeworld species occupation cybernetics abilities equipment vehicles starships
+42 "Darth Maul" 175.0 80.0 none red yellow 54.0 BBY Dathomir 0.0 BBY "Kalakar Six" male masculine he/him Dathomir Zabrak "Dark Lord of the Sith" "Six-legged apparatus, Two cybernetic legs" "Lightsaber training, Force abilities, Other talents" Lightsabers "Sith speeder" Scimitar

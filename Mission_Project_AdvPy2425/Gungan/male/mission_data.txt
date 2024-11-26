@@ -1,0 +1,4 @@
+ name height mass hair_color skin_color eye_color birth_year birth_era birth_place death_year death_era death_place sex gender pronoun homeworld species occupation cybernetics abilities equipment vehicles starships
+34 "Jar Jar Binks" 196.0 66.0 none orange orange 52.0 BBY Naboo    male masculine he/him Naboo Gungan "Senator of Chommell Sector "  Communicating   
+35 "Roos Tarpals" 224.0 82.0 none "white, purple" orange    21.0 BBY Naboo male masculine he/him Naboo Gungan "Gungan Captain"     
+36 "Rugor Nass" 206.0  none green orange       male masculine he/him Naboo Gungan "Gungan Leader"     

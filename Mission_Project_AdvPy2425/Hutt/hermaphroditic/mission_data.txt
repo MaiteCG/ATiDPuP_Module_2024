@@ -1,0 +1,2 @@
+ name height mass hair_color skin_color eye_color birth_year birth_era birth_place death_year death_era death_place sex gender pronoun homeworld species occupation cybernetics abilities equipment vehicles starships
+15 "Jabba Desilijic Tiure" 175.0 1358.0  "green-tan, brown" orange 600.0 BBY "Nal Hutta" 4.0 ABY Tatooine hermaphroditic masculine he/him "Nal Hutta" Hutt "Crime lord"     

@@ -1,0 +1,2 @@
+ name height mass hair_color skin_color eye_color birth_year birth_era birth_place death_year death_era death_place sex gender pronoun homeworld species occupation cybernetics abilities equipment vehicles starships
+57 "Mas Amedda" 196.0 91.0 none blue blue       male masculine he/him Champala Chagrian "Vice Chair of the Galactic Senate"  Politics Clothing  

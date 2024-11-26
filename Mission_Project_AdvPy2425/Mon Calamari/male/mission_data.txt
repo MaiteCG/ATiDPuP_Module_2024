@@ -1,0 +1,2 @@
+ name height mass hair_color skin_color eye_color birth_year birth_era birth_place death_year death_era death_place sex gender pronoun homeworld species occupation cybernetics abilities equipment vehicles starships
+25 "Gial Ackbar" 180.0 83.0 none "brown mottle" orange 41.0 BBY "Mon Cala" 29.0 ABY "Mon Calamari" male masculine he/him Dac "Mon Calamari" "Supreme Commander of the Alliance Fleet"  Kar-Shak "Mon Calamari fleet officer uniform, Utility belt, Blasters"  

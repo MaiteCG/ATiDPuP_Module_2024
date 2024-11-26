@@ -1,0 +1,2 @@
+ name height mass hair_color skin_color eye_color birth_year birth_era birth_place death_year death_era death_place sex gender pronoun homeworld species occupation cybernetics abilities equipment vehicles starships
+39 Sebulba 112.0 40.0 none "beige, purple" orange       male masculine he/him Malastare Dug "Podracer pilot"  "Piloting, Racing" "Weapons, Armor, Helmet, Googles"  

@@ -1,0 +1,11 @@
+ name height mass hair_color skin_color eye_color birth_year birth_era birth_place death_year death_era death_place sex gender pronoun homeworld species occupation cybernetics abilities equipment vehicles starships
+4 "Leia Organa Solo" 150.0 49.0 "dark brown" light brown 19.0 BBY "Polis Massa" 35.0 ABY "Ajan Kloss" female feminine she/her Alderaan Human "Princess of Alderaan"  "Jedi training, Force powers, Other abilities" "Defender sporting blaster pistol, X-30 Lancer target blast pistol, Lightsaber" "Imperial Speeder Bike" 
+6 "Beru Whitesun Lars" 165.0 75.0 brown light blue 47.0 BBY  0.0 BBY Tatooine female feminine she/her Tatooine Human "Moisture farmer"   "Light robes"  
+26 "Mon Mothma" 150.0  auburn light blue 48.0 BBY Chandrila 24.0 ABY  female feminine she/her Chandrila Human "Chancellor of the New Republic"  Piloting "Chandrilan tunic"  
+33 "Padmé Amidala" 165.0 45.0 brown light brown 46.0 BBY Naboo 19.0 BBY "Polis Massa" female feminine she/her Naboo Human "Queen of Naboo"  Politics   "Naboo fighter, H-type Nubian yacht, Naboo star skiff"
+41 "Shmi Skywalker Lars" 163.0  brown fair brown 72.0 BBY  22.0 BBY Tatooine female feminine she/her Tatooine Human "Moisture farmer"     
+59 Cordé 157.0  brown light brown    22.0 BBY Coruscant female feminine she/her Naboo Human Handmaiden     
+64 Dormé 165.0  brown light brown       female feminine she/her Naboo Human Handmaiden     
+72 "Jocasta Nu" 167.0  white fair blue 110.0 BBY Coruscant 19.0 BBY Coruscant female feminine she/her Coruscant Human "Jedi Master"  "Lightsaber abilities, Force powers" Lightsabers  
+83 "Rey Skywalker" 170.0 54.0 brown light hazel 15.0 ABY Hyperkarn 35.0 ABY Exegol female feminine she/her Jakku Human Jedi  "Lightsaber abilities, Force powers, Force lightning" "Hellhound two, Vehicles, Tools and wapons, Lightsabers"  
+86 "Captain Phasma" 200.0 76.0 gold light blue 6.0 ABY Parnassos 34.0 ABY "Crait system" female feminine she/her Parnassos Human "Stormtrooper commander"  Shooting "Rust-read war mask, Armor coated, Weapons, Blasters"  

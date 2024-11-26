@@ -1,0 +1,7 @@
+ name height mass hair_color skin_color eye_color birth_year birth_era birth_place death_year death_era death_place sex gender pronoun homeworld species occupation cybernetics abilities equipment vehicles starships
+1 C-3PO 167.0 75.0  gold yellow 112.0 BBY Affa 3.0 ABY Bespin none masculine he/him Tatooine Droid "Protocol droid"  "Language known, Other skills"   
+2 R2-D2 96.0 32.0  "blue, silver, white" red 33.0 BBY  20.0 BBY Carida none masculine he/him Naboo Droid "Astromech droid"   "Buzz saw, Electric pike, Drinks tray, Fusion welder, Scomp link, Power recharge coupler, Rocket boosters, Holographic projector, Motorized all-terrain treads, Retractable third leg"  
+7 R5-D4 97.0 32.0  "white, red, blue" red       none masculine he/him Tatooine Droid "Astromech droid"   "Holoprojector, Rocket booster, Scomp link"  
+21 IG-88B 200.0 140.0 none metal red 15.0 BBY  3.0 ABY Bespin none masculine he/him Halowan Droid "Assassin droid"   "Gas dispenser, Neural flame grenades, Flamethrower, Sonic stunner, DAS-430 Neural Inhibitor, Ion blaster, Concussion grenade launcher, Pulse cannon"  
+73 R4-P17 96.0  none "silver, red" "red, blue"    19.0 BBY Coruscant none feminine she/her  Droid "Astromech droid"   "Holographic projector, Recorder, Various utility, Repair tools"  
+85 BB-8 67.0 18.0 none "white, orange" red 29.0 ABY     none masculine he/him "Hosnian Prime" Droid "Astromech droid"   "Grappling spike launcher, Welding torch, Holoprojector, Arc welder"  

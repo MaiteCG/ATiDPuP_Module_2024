@@ -1,0 +1,2 @@
+ name height mass hair_color skin_color eye_color birth_year birth_era birth_place death_year death_era death_place sex gender pronoun homeworld species occupation cybernetics abilities equipment vehicles starships
+77 Grievous 216.0 159.0 none "brown, white" gold    19.0 BBY Utapau male masculine he/him Kalee Kaleesh "Jedi Hunter" "Completely cebernetic except for brain" "Lightsaber abilities" Lightsabers "Tsmeu-6 personal wheel bike" "Belbullab-22 starfighter"

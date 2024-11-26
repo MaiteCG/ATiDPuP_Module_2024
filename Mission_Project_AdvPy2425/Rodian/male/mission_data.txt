@@ -1,0 +1,2 @@
+ name height mass hair_color skin_color eye_color birth_year birth_era birth_place death_year death_era death_place sex gender pronoun homeworld species occupation cybernetics abilities equipment vehicles starships
+14 Greedo 173.0 74.0  green black 44.0 BBY Rodia 0.0 BBY Tatooine male masculine he/him Rodia Rodian "Bounty hunter"     

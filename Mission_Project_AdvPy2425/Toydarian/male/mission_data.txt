@@ -1,0 +1,2 @@
+ name height mass hair_color skin_color eye_color birth_year birth_era birth_place death_year death_era death_place sex gender pronoun homeworld species occupation cybernetics abilities equipment vehicles starships
+38 Watto 137.0  black blue orange       male masculine he/him Toydaria Toydarian "Junk store proprietor"     

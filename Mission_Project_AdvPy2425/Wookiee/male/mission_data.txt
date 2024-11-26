@@ -1,0 +1,3 @@
+ name height mass hair_color skin_color eye_color birth_year birth_era birth_place death_year death_era death_place sex gender pronoun homeworld species occupation cybernetics abilities equipment vehicles starships
+12 Chewbacca 228.0 112.0 brown  blue 200.0 BBY Kashyyyk 25.0 ABY Sernpidal male masculine he/him Kashyyyk Wookiee Co-pilot  "Piloting, Mechanic repairs" "Weapons, Blasters" AT-ST "Millennium Falcon, Imperial shuttle"
+78 Tarfful 234.0 136.0 brown brown blue       male masculine he/him Kashyyyk Wookiee "Wookiee chieftain"   Weapons  

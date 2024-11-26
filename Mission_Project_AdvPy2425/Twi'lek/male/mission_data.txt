@@ -1,0 +1,2 @@
+ name height mass hair_color skin_color eye_color birth_year birth_era birth_place death_year death_era death_place sex gender pronoun homeworld species occupation cybernetics abilities equipment vehicles starships
+43 "Bib Fortuna" 188.0  none pale red    9.0 ABY Tatooine male masculine he/him Ryloth Twi'lek "Chief aide to Jabba the Hutt"   Clothing  

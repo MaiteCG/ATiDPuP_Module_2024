@@ -1,0 +1,2 @@
+ name height mass hair_color skin_color eye_color birth_year birth_era birth_place death_year death_era death_place sex gender pronoun homeworld species occupation cybernetics abilities equipment vehicles starships
+44 "Aayla Secura" 170.0 55.0 none blue hazel 48.0 BBY  19.0 BBY Felucia female feminine she/her Ryloth Twi'lek "Twi'lek Jedi"  "Lightsaber training, Force powers" Lightsabers  
